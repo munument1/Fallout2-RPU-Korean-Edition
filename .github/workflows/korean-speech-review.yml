@@ -1,4 +1,4 @@
-name: Korean dialogue register audit (manual)
+name: Korean dialogue register audit (all RPU files)
 
 on:
   workflow_dispatch:
@@ -7,11 +7,18 @@ on:
         description: 'Maximum matched NPC scripts to inspect (0 = all; large runs may take longer)'
         type: choice
         required: true
-        default: '75'
+        default: '0'
         options:
           - '75'
           - '150'
           - '0'
+  push:
+    branches:
+      - 'review/rpu-v2.4.34-dialogue-20261017'
+    paths:
+      - 'data/text/korean/dialog/**'
+      - 'korean/**'
+      - '.github/workflows/korean-speech-review.yml'
 
 permissions:
   contents: read
@@ -32,7 +39,7 @@ jobs:
         run: python -m unittest discover -s korean/tests -v
       - name: Identify candidate NPC speech register inconsistencies
         env:
-          SCRIPT_LIMIT: ${{ inputs.script_limit }}
+          SCRIPT_LIMIT: ${{ inputs.script_limit || '0' }}
         run: python korean/audit_dialogue_register.py --script-limit "$SCRIPT_LIMIT" --out korean-speech-report
       - name: Upload review leads for manual verification
         uses: actions/upload-artifact@v4
