@@ -1,0 +1,23 @@
+﻿msg_id,speaker_context,english,previous_korean,updated_korean,reason
+101,look_description,"You see an average person, of average height, of average complexion. Nothing out of the ordinary.","보통 키에, 보통 외모의, 평범한 사람이다.",당신은 평범한 키와 피부색을 지닌 사람을 본다. 특별히 눈에 띄는 점은 없다.,average complexion(평범한 피부색)과 별다른 특징이 없다는 원문 정보 복원
+106,look_description,You see Justice of the Peace Jo.,평화와 정의의 조.,치안판사 조.,Justice of the Peace는 직역된 '평화와 정의'가 아니라 치안판사 직함
+151,dialogue_or_other,Meet us at the Ghost Farm. We attack immediately.,유령농장에서 모입시다. 당장 공격해야 합니다..,유령농장에서 만납시다. 도착하면 곧바로 공격하겠습니다.,즉시 공격한다는 진술을 원문대로 번역하고 이중 마침표 제거
+152,npc_reply,Thank you for saving the residents of Modoc.,모독의 시민들을 구한 것을 치하합니다..,모독 주민들을 구해 주셔서 감사합니다.,Thank you는 구출에 대한 감사이지 치하하거나 상을 주는 표현이 아님
+157,player_option,So who says I'm here to trade?,물건을 사러 왔다고 말한 적 없습니다.,제가 거래하러 왔다고 누가 그랬죠?,거래하러 왔다고 누가 그랬냐는 반문을 플레이어 선택지에 보존
+158,player_option,I'm new here. What can you tell about this town?,이 마을에 처음인데요. 마을에 무슨 일이 있습니까?,이 마을엔 처음 왔는데요. 마을에 대해 좀 알려주시겠어요?,town에 대해 알려달라는 질문이지 마을에서 사건이 났냐는 질문이 아님
+159,player_option,I don't suppose you have a gold watch for sale?,금시계를 팔러 온 것은 아니지요?,혹시 판매하는 금시계가 있을까요?,판매하는 금시계가 있는지 묻는 것인데 기존 번역은 방문자가 금시계를 팔러 왔는지로 의미 역전
+161,npc_reply,What can I do for you?,무엇을 도와 드릴까요.?,무엇을 도와드릴까요?,중복 마침표와 잘못된 공백 교정
+162,player_option,"I'm looking for a certain item, and I was wondering if you might be able to help me locate it.","무언가 중요한 물건을 찾는 중엔데, 도움을 주실수 있을까 해서요.","찾는 물건이 하나 있는데, 어디서 구할 수 있는지 알려주실 수 있나요?","certain item은 특정 물건, 중요하다는 부연을 제거하고 어법 교정"
+166,player_option,What can you tell me about this town?,마을에 대한 정보를 원합니다?,이 마을에 대해 좀 알려주시겠어요?,마을 정보 제공 요청을 명확한 의문문으로 복원
+170,dialogue_or_other,I cleaned out your Ghost Farm problem. You can take over the farm any time.,유령농장 문제를 깔끔하게 해결했습니다. 언제든지 그 농장을 취하러 가도 될 겁니다.,유령농장 문제를 해결했습니다. 이제 언제든 그 농장을 차지하셔도 됩니다.,농장 문제 해결 및 바로 점유 가능하다는 원문의 의미 유지
+180,dialogue_or_other,Those bodies are fake. Just dummies covered in Brahmin guts. They were there to scare you away from the crops.,그 시체는 가짜였소. 단지 가축들의 내장을 이용해서 만든 허수아비들이더군요. 그냥 사람들을 놀래키게 하기 위해 만든 트릭이지요.,그 시체들은 가짜였소. 브라민 내장을 뒤집어씌운 인형들이었지. 농작물에 접근하지 못하게 겁을 주려고 세워둔 거요.,"Brahmin guts(브라민 내장), 인형과 농작물 접근 차단 목적 복원"
+187,player_option,Business? Just tell me where I can find the holy GECK and I'll be on my way.,거래라구요? 그냥 GECK의 있는 장소만 알려주시면 안되나요?,거래라고요? 성스러운 GECK이 어디 있는지만 알려주시면 바로 떠날게요.,어디 있는지 알려주면 바로 떠나겠다는 마지막 절 복원
+188,player_option,"Our only business is that you will tell me where the holy GECK is located before something bad
+ happens.",우리 사이의 유일한 비즈니스는 나쁜 일이 생기기 전에 그 거룩한 GECK이 어디 있는지 당신이 나에게 말하는 것뿐입니다.,우리 사이에서 필요한 거래는 하나뿐이야. 험한 꼴을 당하기 전에 성스러운 GECK이 어디 있는지 말해.,협박성 플레이어 발화의 경고와 위치를 말하라는 요구를 자연스러운 어법으로 복원
+189,player_option,What do you want for this information?,내가 무얼 하기를 원하시요?,그 정보를 알려주는 대가로 뭘 원하세요?,What do you want for this information?는 정보 대가로 무엇을 요구하는지 묻는 선택지
+195,player_option,"Are you saying that this farm just sprung up overnight? Yeah, right!",하룻밤 사이에 갑자기 밭이 생겼다구요?,그 농장이 하룻밤 사이에 갑자기 생겼다는 말씀이에요? 말도 안 돼요!,"Yeah, right!의 불신·비꼼이 누락되어 복원"
+198,dialogue_or_other,"After many months of trying to contact the owners with no success, it was decided that the farm
+ must have been abandoned soon after it was built. So instead of letting the crops rot in the fields,
+ young Karl moved in.","소유주와 연락하려고 몇 달 동안 노력했지만 실패했고, 농장이 지어지자마자 버려진 게 분명하다고 결론을 내렸습니다. 그래서 농작물을 밭에서 썩게 두는 대신 젊은 칼이 그리리로 이사했죠.","소유주와 연락하려고 몇 달 동안 노력했지만 실패했고, 농장이 지어지자마자 버려진 게 분명하다고 결론을 내렸습니다. 그래서 농작물을 밭에서 썩게 두는 대신 젊은 칼이 그곳으로 이사했죠.",원문 의미 유지하면서 오타 '그리리로' 교정
+201,player_option,What happened to him? Did you look for him?,칼은 어떻게 되었지요? 찾아보셨나요??,칼은 어떻게 됐죠? 찾으러 가 보셨나요?,중복 물음표와 비문 교정
+205,player_option,What do I get out of this?,뭘 하면 좋을까요?,이 일을 해 주면 제게 뭐가 돌아오죠?,What do I get out of this?는 보수/대가를 묻는 질문이며 현재 번역은 의미 오역
