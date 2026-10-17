@@ -7318,8 +7318,8 @@
     {
       "path": "data/text/korean/dialog/vclynett.msg",
       "zip_path": "data/text/korean/dialog/vclynett.msg",
-      "sha256": "ece32e2b9de2410f2d22f63e71f77203b8334d6590cebaee424f9a6f12367b21",
-      "bytes": 59608
+      "sha256": "4fa5c571c9347ac9d9df1e67601d979a263de3cd7b325974083841ade191cba0",
+      "bytes": 59408
     },
     {
       "path": "data/text/korean/dialog/vcmacrae.msg",

@@ -144,8 +144,8 @@
 {231}{}{감독관은 어디에 있습니까? 나는 그와 이야기를 나눠봐야겠습니다.}
 {232}{}{당신을 믿지 못하겠소. 말해두지만, 안전 신호는 오지 않았소!}
 {233}{}{알겠습니다. 정보를 줘서 고맙습니다. 좋은 하루 되세요.}
-{234}{lyn023}{Yes... at least, that's what I remember from the archives. However, I am certain many
- Citizens were responsible for monitoring the surface sensors.}
+{234}{lyn023}{네... 적어도 기록 보관소에서 읽은 바에 따르면 그렇습니다. 하지만 여러 시민이
+ 지상 감시 센서를 살피는 일을 맡았던 것은 확실합니다.}
 {235}{}{지금, 그 지상 센서들에 대한 정보는 없습니까?}
 {236}{}{그 기록 보관소들은 어디에 있습니까?}
 {237}{}{감독관은 어디에 있습니까? 나는 그와 이야기를 나눠봐야겠습니다.}
@@ -173,13 +173,13 @@
 {255}{}{가치를 증명? 어떻게요?}
 {256}{}{나는 첫번째 볼트 거주자의 후예입니다. 이정도면 충분할 것 같습니다만.}
 {257}{}{생각해보지요. 좋은 하루가 되기를 바랍니다.}
-{258}{lyn028}{You misunderstand... it is not the world we object to, it is the people in it. Look
- around -- within these walls is all that remains of pre-war civilization.}
+{258}{lyn028}{오해하셨군요... 우리가 거부하는 건 세상이 아니라 그 안에 사는 사람들입니다.
+ 둘러보십시오. 이 성벽 안에는 전쟁 전 문명의 마지막 흔적만이 남아 있습니다.}
 {259}{}{감독관은 어디에 있습니까? 나는 그와 이야기를 나눠봐야겠습니다.}
 {260}{}{나누지 않는 건 옳지 않소. 이 성벽 안에 사는 사람들뿐만 아니라 모두를 돕는 것이 당신의 책임이란 말이오.}
 {261}{}{나는... 알겠습니다. 시간을 내줘서 고맙습니다. 그럼.}
-{262}{lyn029}{You Outsiders are fine ones to lecture about "responsibility." You beg incessantly for
- help, yet do nothing to better yourselves. Our talk is over... leave now, before I summon the guards.}
+{262}{lyn029}{외부인 주제에 '책임'을 운운하다니 가관이군요. 당신들은 끊임없이 도움을 구걸하면서도
+ 스스로 나아지려 노력하지 않습니다. 대화는 끝났습니다. 경비를 부르기 전에 나가십시오.}
 {263}{}{경비들을 지금 부르는 것이 좋을 것이오, 왜냐하면 당신은 다른 기회를 갖지 못할 테니까.}
 {264}{}{감독관을 보기 전까지 나갈 수 없소!}
 {265}{}{지금... 나가오.}
@@ -190,9 +190,9 @@
 {269}{}{나는 볼트에 살지 않습니다. 나는 서쪽의 부족 마을에서 왔습니다.}
 {270}{}{잘 모르겠습니다. 당신이 보다시피 나는 내 조상이 있었던 볼트를 찾고 있습니다.}
 {271}{}{그것을 알게 되면, 당신에게도 알려주겠습니다. 좋은 하루 되십시오.}
-{272}{lyn031}{We exited the Vault 120 years ago and, with the help of our Eden kit, began construction
- of Vault City. Ten years later, the Overseer retired and a Council of Citizens was established. The
- Council appointed the initial First Citizen.}
+{272}{lyn031}{우리는 120년 전에 볼트에서 나왔고, 에덴 키트의 도움을 받아 볼트
+ 시티를 건설하기 시작했습니다. 10년 후 감독관이 은퇴하자 시민 의회가 설립되었고,
+ 의회가 초대 제1시민을 임명했지요.}
 {273}{}{GECK이 나왔으니 하는 말인데 내가 가질 수 있는 여분의 것이 없습니까?}
 {274}{}{그럼 당신이 이 도시의 리더겠습니다?}
 {275}{}{120년 전이라고요? 볼트 거주자가 마스터를 막기 70년 전이잖아요. 여긴 제가 찾고 있는 볼트가 아닐 겁니다.}
@@ -201,30 +201,30 @@
 {278}{}{제1시민님, 긴급한 부탁이 있습니다. 저희 마을에는 에덴 동산 창조 장비(GECK)가 절실히 필요합니다. 혹시 제가 가질 수 있는 여분이 있습니까?}
 {279}{}{그렇다면 제가 찾던 분이 맞군요. 전 아로요 주민들을 대신해 정당한 권리를 주장하러 왔습니다. 바로 거룩한 GECK이죠.}
 {280}{}{알겠습니다. 이야기를 나눠줘서 고맙습니다. 좋은 하루 되십시오.}
-{281}{lyn033}{Corrupt?! The Overseer was a great man and a flawless leader. His teachings and wisdom
- still comprise much of our schooling.}
+{281}{lyn033}{부패했다고요?! 감독관은 위대한 인물이자 결점 없는 지도자였습니다. 그의 가르침과 지혜는 지금도 우리
+ 교육의 상당 부분을 차지하고 있습니다.}
 {282}{}{그렇다면 이 감독관은 '볼트 거주자'가 알던 사람이 아닌 것 같군요.}
 {283}{}{볼트를 구한 다음에, '볼트 거주자'은 감독관에 의해 추방되었소. 이것은 어떤 교훈으로 봐야 하오?}
 {284}{}{그렇다면 당신은 바보로 자란 거요. 내 시간을 더는 낭비하지 마시오, 여자. 날 도울 만한 사람을 데려오시오.}
 {285}{}{그렇다면 당신은 바보로 자란 거요. 내 시간을 더는 낭비하지 말고 날 도울 만한 사람을 데려오시오.}
 {286}{}{유감스럽군요. 좋은 하루 되십시오.}
-{287}{lyn034a}{You may speak with Proconsul Gregory. He has authority to administer the Citizenship
- test. He can be found in the meeting room down the corridor.}
+{287}{lyn034a}{그레고리 집정관에게 문의하십시오. 그에게 시민권 시험을 주관할 권한이
+ 있습니다. 복도 안쪽 회의실에서 만날 수 있을 겁니다.}
 {288}{lyn034b}{또는... 시민이 될 수 있는 다른 방법이 있지요...}
 {289}{}{다른 방법? 그게 뭡니까?}
 {290}{}{전직집정관과 이야기를 나누어 봐야겠습니다. 그럼 안녕히.}
 {291}{}{그럼 전직집정관과 이야기를 해봐야 겠습니다.}
 {292}{}{그레고리랑 대화를 해보도록 하지요. 시간을 내줘서 고맙습니다, 제1시민.}
-{293}{lyn035}{Quite impossible. In the century we have lived outside the Vault, no one has ever chosen
- to leave. Although there were two Citizens exiled from our city long ago... as punishment for their crimes.}
+{293}{lyn035}{절대 불가능합니다. 우리가 볼트 밖에서 살아온 백 년 동안 스스로 떠난 시민은 단
+ 한 명도 없습니다. 다만 오래전에 두 시민이 범죄에 대한 처벌로 이 도시에서 추방된 적은 있지요.}
 {294}{}{당신이 '볼트 거주자'를 추방시킨 장본인이었군! 나는 정당한 내 물건을 찾으러 왔다!}
 {295}{}{그 시민들이 무슨 짓을 저질렀습니까?}
 {296}{}{만약 여기가 내가 찾던 볼트가 아니라면 나는 내 조상이 있었던 곳을 찾아야겠습니다.}
 {297}{}{그만 가보겠습니다. 좋은 하루 되십시오.}
-{298}{lyn036a}{Village? But you are wearing a Vault suit... wh-what is this village you speak of? Speak
- plainly: my patience is wearing thin.}
-{299}{lyn036b}{Village? First you tell me you are from a vault, now from a village. Which is it?! My
- patience for your double-talk is wearing thin.}
+{298}{lyn036a}{마을이요? 하지만 볼트 수트를 입고 있지 않습니까... 그, 그 마을이란 대체 뭡니까? 똑바로
+ 말하십시오. 인내심이 바닥나고 있습니다.}
+{299}{lyn036b}{마을이라고요? 조금 전에는 볼트 출신이라더니 이제는 마을에서 왔다고요. 대체 어느 쪽입니까?!
+ 그런 앞뒤 안 맞는 말은 더는 못 참겠습니다.}
 {300}{}{잠깐만, 잘못 생각하고 있습니다. '볼트 거주자'는 내 마을의 시조였습니다.}
 {301}{}{당신에 대한 내 인내심도 바닥을 보이고 있소, 여자. 다른 사람을 데려오시오... 나를 도울 수 있는 다른 사람 말이오.}
 {302}{}{당신에 대한 내 인내심도 바닥을 보이고 있소. 다른 사람을 데려오시오... 나를 도울 수 있는 다른 사람 말이오.}
@@ -239,21 +239,21 @@
 {311}{}{오, 확인해 봐도 좋을까요?}
 {312}{}{제1시민님, 제 조상이 머물렀던 볼트의 위치를 알아내는 건 제게 매우 중요한 일입니다. 제가 기록 보관소를 확인할 수 있게 해주신다면 정말 감사하겠습니다.}
 {313}{}{흐음. 정보 감사합니다. 좋은 하루 되세요.}
-{314}{lyn039}{I'm sorry, but we used ours to start Vault City. I do not believe there were any spares,
- but you could check the Acquisitions Office. It is located by the entrance to our vault.}
+{314}{lyn039}{안타깝지만 우리 것은 볼트 시티를 세울 때 써 버렸습니다. 여분이 있었을 것
+ 같진 않지만 조달 사무소에 확인해 보십시오. 볼트 입구 근처에 있습니다.}
 {315}{}{감사합니다. 다른 질문이 있습니다만...}
 {316}{}{볼트 13이 어디에 있는지 아십니까?}
 {317}{}{좋습니다! 그럼 가서 확인해보겠습니다. 좋은 하루 되십시오.}
-{318}{lyn040}{A dirty vault suit and a battered canteen? That is your proof? Who knows where you
- scavenged those "relics" from... or who you killed to steal them.}
+{318}{lyn040}{더러운 볼트 수트와 낡은 수통이 증거라고요? 그 '유물'을 어디서 주워
+ 왔는지, 아니면 누구를 죽이고 훔쳤는지 누가 압니까?}
 {319}{}{제발... 다시 한번 봐주십시오. 그것들은 진짜입니다.}
 {320}{}{나는 긴 여행 끝에 여기까지 왔소. 적어도 그것들을 보라구, 여자!}
 {321}{}{나는 긴 여행 끝에 여기까지 왔소. 적어도 그것들을 봐!}
 {322}{}{그것들이 당신에게 확신을 주지 않는다면 더 할 말이 없군요. 좋은 하루 되십시오.}
-{323}{lyn041a}{Do you have any conception of how busy I am? I run this city, and I have precious little
- time to waste with you and your wild claims.}
-{324}{lyn041b}{Do you have any conception of how busy I am? I run this city, and I have precious little
- time to waste with you.}
+{323}{lyn041a}{내가 얼마나 바쁜 사람인지 알기는 합니까? 이 도시를 통치하고 있단 말입니다. 당신과 당신의
+ 터무니없는 주장에 낭비할 시간 따위는 없습니다.}
+{324}{lyn041b}{내가 얼마나 바쁜 사람인지 알기는 합니까? 이 도시를 통치하고 있단 말입니다. 당신 때문에 낭비할
+ 시간 따위는 없습니다.}
 {325}{lyn041c}{당장 나가십시오. 그렇지 않으면 경비를 부르겠습니다.}
 {326}{}{가서 그들을 부르시오. 그들은 당신의 목숨을 제 때 구하러 오지 못할 것이오.}
 {327}{}{좋소, 떠나겠소.}
