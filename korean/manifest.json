@@ -6022,8 +6022,8 @@
     {
       "path": "data/text/korean/dialog/ocgoris.msg",
       "zip_path": "data/text/korean/dialog/ocgoris.msg",
-      "sha256": "77ea20dac30af0146db50ccfff172391582f926a980eb216ecdeddb1e5a4547d",
-      "bytes": 12417
+      "sha256": "d849d45cf27ea2e258d1d40f8a0ffa0d0e78cd3f7bc6203ef627e313fa2e70fb",
+      "bytes": 12374
     },
     {
       "path": "data/text/korean/dialog/ocgrunt.msg",
