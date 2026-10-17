@@ -5050,8 +5050,8 @@
     {
       "path": "data/text/korean/dialog/kcsulik.msg",
       "zip_path": "data/text/korean/dialog/kcsulik.msg",
-      "sha256": "3d073f208c9c9a820e662ef52e6437fcf56b77ce531577c24372d9d87ebbfca5",
-      "bytes": 29338
+      "sha256": "ea26461769275e46112123292132626467ebadc897f7228e128fafc658501a89",
+      "bytes": 29335
     },
     {
       "path": "data/text/korean/dialog/kctorr.msg",
