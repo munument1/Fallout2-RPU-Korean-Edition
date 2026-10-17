@@ -9,8 +9,8 @@
 {107}{slk2a}{오, 안돼. 우리와 대화하려고 하지 마라. 너희 중의 하나가 우리의 여동생을 데려갔어. 너에겐... 나쁜 업보가 쌓였다.}
 {108}{slk2b}{오, 아니. 우리는 노예 상인과 이야기하지 않을거야.}
 
-{109}{slk3}{Most people have evil spirits. You? You have stupid spirits.
- Go see shaman, get hole in head... Big hole... Very big... Huge.}
+{109}{slk3}{대부분 사람에겐 나쁜 영혼이 붙어 있지. 그런데 너? 너한텐 멍청한 영혼이 붙었군.
+ 주술사한테 가서 머리에 구멍을 뚫어 달라고 해... 큰 구멍... 아주 큰 구멍... 엄청 큰 구멍.}
 {110}{}{느어?}
 {111}{}{어-허!}
 {112}{}{걱! (당신은 불안해 보인다)}
@@ -19,16 +19,16 @@
 {114}{}{어-허.}
 {115}{}{허?}
 
-{116}{slk5a}{Ah, shit, fren. Slavers took our sister. We went drinking, then went breaking. Now paying off Maida. When
- that done, we go find sis.}
+{116}{slk5a}{젠장, 친구. 노예상인들이 우리 여동생을 데려갔어. 우린 술을 마시고 난동을 피웠지. 그래서 지금 메이다에게 빚을 갚는 중이야.
+ 다 갚으면 여동생을 찾으러 갈 거야.}
 {117}{slk5b}{이제 우린 떠날 준비가 됐다. 여동생을 찾으러 가지. 그녀는 노예상인들에게 유괴당했다.}
 {118}{}{어?}
 {119}{}{흐음, 네가 자유가 되려면 얼마를 지불해야 되는데?}
 {120}{}{어-허.}
 {121}{}{난 뭔가를 찾고 있어. 네가 나한테 합류할 수도 있겠지.}
 
-{122}{slk6}{We owe Maida $350. You heading south? We walkabout with you and look for sis. You
- having $350?}
+{122}{slk6}{메이다에게 $350을 빚졌어. 너 남쪽으로 가나? 그럼 우리랑 나도 따라가서 여동생을 찾을게.
+ 너한테 $350 있어?}
 {123}{}{아니-이.}
 {124}{}{어-엉!}
 {125}{}{여기 $350있어.}
@@ -42,8 +42,8 @@
 {142}{}{무슨 영혼인데?}
 {143}{}{알았어...다른 걸 물어보게 해 줄래?}
 
-{150}{slk6b}{That be funny, fren. At least, Grampy Bone think so. He say you got wit. Say
- you going to need it.}
+{150}{slk6b}{그거 웃기는군, 친구. 적어도 그램피 본은 그렇대. 네게 재치가 있다고 하네. 앞으로 그
+ 재치가 필요할 거라고도 해.}
 {151}{}{왜?}
 {152}{}{그램피 본이 누군데?}
 {153}{}{다른 질문은 해도 될까?}
@@ -67,8 +67,8 @@
 {210}{slk6h}{우린 잘 해나갈 수 있을 거야.}
 {211}{}{아마 다음에 더 이야기 할 수 있겠지. 안녕.}
 
-{220}{slk7}{Vic the traitor, more like. Comes to village, says he knows about slavers, tell us
- to come see him. We go, he ain't there.}
+{220}{slk7}{빅은 배신자라고 해야겠지. 마을에 와선 노예상인들에 대해 안다며 자길
+ 찾아오라고 했어. 그런데 와 보니 없더군.}
 {221}{}{네 여동생이 노예상인에게 잡혔다고?}
 {222}{}{다른 걸 물어보게 해줘.}
 {223}{}{그게 지금 내가 알아야 할 전부인 것 같네. 잘 있어.}
@@ -165,14 +165,14 @@
 {411}{slk27gb}{다른 사람을 돕는게 결국 자신을 돕는 셈이거늘. 그들에게 눈은 있지만 보질 못하고 있는게 안타깝군.}
 
 {420}{slk27ha}{우린 영혼이 가는 곳으로 가야해, 그들이 뭐라고 하든.}
-{421}{slk27hb}{This one is not the one, but it helps be the one... maybe spirits know more, maybe not. We
- and I think they like to talk like that.}
+{421}{slk27hb}{이 길이 그 길은 아니지만, 그 길로 가는 데 도움이 된다네... 영혼들이 더 아는 걸지도, 아닐지도 몰라. 우리랑
+ 나는 영혼들이 원래 그런 식으로 말하길 좋아한다고 생각해.}
 
 {430}{slk27ia}{영혼들은 이것들이 빛의 도시의 어둠으로부터 만져졌다고 한다.}
 {431}{slk27ib}{육체가 없는 머리.}
 
-{440}{slk27ja}{Spirits see two paths, joining others. Bad path goes to bad shadows in bright area. Good
- path goes to bright place that was born of shadows.}
+{440}{slk27ja}{영혼들은 다른 길들과 만나는 두 갈래 길을 보았어. 나쁜 길은 밝은 곳에 드리운 어둠으로
+ 이어지고, 좋은 길은 어둠에서 태어난 밝은 곳으로 이어진대.}
 {441}{slk27jb}{그것들을 빛으로 보내지마.}
 {442}{slk27jc}{그들에게 뭔가 더 큰 것의 일부가 되라고 설득해봐.}
 
@@ -278,13 +278,13 @@
 {743}{slk40b}{그램피 본께서 말하시길, 우리는 조심해야 한다는군.}
 {744}{slk40c}{문제없어.우리 친구를 위해 안전하지 확인해보지.}
 
-{745}{slk41a}{From now on you give two for one in trades... Just kidding. Grampy Bone
- say you get funny look - like that one.}
+{745}{slk41a}{앞으로 거래할 때 물건 하나 값에 둘을 내놔... 농담이야. 그램피 본이 네
+ 표정이 웃길 거라더니, 딱 지금 그 표정이네.}
 {746}{slk41b}{좋아.}
 {747}{slk41c}{우리건 네거야, 친구.}
 
-{750}{slk42}{We and I thank you. You try to do a good thing, just don't have the bread. Maybe you
- can raise some?}
+{750}{slk42}{우리랑 나도 고마워. 좋은 일을 하려는 건 알겠는데 돈이 부족하군. 어떻게든 좀 더
+ 마련할 수 있겠어?}
 {751}{}{어.}
 {752}{}{미안하군, 내가 잘못 계산했어. 가볼께.}
 {753}{}{충분한 것 같아. 미안, 뭘 좀 물어볼께.}
@@ -312,16 +312,16 @@
 {773}{}{달 두 번? 굉장히 먼 거린데, 어떻게 안전하게 여행한거지?}
 {774}{}{그거면 충분해. 가볼께.}
 
-{775}{slk46}{Geckos. The little dudes don't bite hard. It's the Goldens. They go through your leg like an
- old pipe stem.}
+{775}{slk46}{ㅤㄱㅔㄱ코 말이지. 작은 녀석들은 별로 아프게 물지 않아. 문제는 황금 ㅤㄱㅔㄱ코야. 녀석들은 낡은 파이프를 뚫듯
+ 네 다리를 물어뜯거든.}
 
-{776}{slk47}{Trader named Vic supposed to be here. He be saying he know about slavers. We show up, didn't
- peep him, get pretty hot.}
+{776}{slk47}{빅이라는 상인이 여기에 있을 줄 알았어. 노예상인들에 대해 안다고 했거든. 그런데 와 보니 안
+ 보이더군. 그래서 화가 잔뜩 났지.}
 {777}{}{빅이 여기 있지만, 노예들에 대해 많이 알지는 못하는 것 같다. 덴에서 노예로 잡혀있었던 거 말고는 말이야. 다른 이야기를 해다오.}
 {778}{}{잘 있어.}
 
-{779}{slk48a}{Slavers got our sis. Thought Vic be having information. Couldn't peep him, got p.o.'d, drank
- like a fish. Spirits of Anger and Chaos pop out and now we have to pay some coin to make it right.}
+{779}{slk48a}{노예상인들이 우리 여동생을 납치했어. 빅이 뭔가 알 줄 알았는데 찾을 수 없었지. 화가 나서
+ 술을 퍼마셨더니 분노와 혼돈의 영혼들이 튀어나와 난동을 부렸어. 이제 그 대가로 돈을 물어줘야 해.}
 {780}{slk48b}{우린 동생을 잡아간 노예상인을 어디로 갔는지 알아내는 중이야. 아마 남쪽이겠지.}
 {781}{slk48c}{동생을 찾아 내려갈거야. 확실하진 않지만, 남쪽이 되겠지. 동행이 필요한가?}
 {782}{}{빅이라는 상인을 찾았다고?}
@@ -332,14 +332,14 @@
 
 {787}{slk50}{친구, 나와 함께 해주는 영혼들과 함께라면, 어딜 가더라도 두려워할 필요 없어.}
 
-{790}{slk52a}{You're bad news walking. Grampy Bone say we be stacking up the bad karma just being
- near you.}
+{790}{slk52a}{넌 걸어 다니는 재앙이야. 그램피 본이 그러는데, 네 옆에 있기만 해도
+ 나쁜 업보가 쌓인대.}
 {791}{slk52b}{좋아. 그램피 본이 말씀하시길 너와 함께하면 여동생을 찾을 수 있다는군.}
 {792}{}{어.}
 {793}{}{그러길 바란다. 어쨌든 너, 그리고 어... 네 할아버지 뼈와 함께 여행하게 되어 기쁘군.}
 
-{794}{slk53}{Not just Grampy Bone, all tribe's spirits. Grampy Bone just wiser and stronger than
- the rest. Let's ease on down.}
+{794}{slk53}{그램피 본만이 아니야. 부족의 모든 영혼이 함께하지. 그램피 본은 다른 영혼들보다 더 현명하고
+ 강할 뿐이야. 자, 천천히 가자.}
 {795}{}{어, 그래. 좋아, 슐릭.}
 
 {796}{slk54}{우리랑 내가 해줄 일이 뭐야?}
@@ -351,8 +351,8 @@
 {802}{}{이제 넌 자유가 됐으니, 나랑 여행하는게 어때?}
 {803}{}{지금은 아무것도 필요한 게 없는 것 같아. 잘 있어.}
 
-{804}{slk55}{So many questions. Maida takes care of trade here and her mother, Ardin, takes care of the
- rooms. No Shaman in town, but you may be able to trade for medicine.}
+{804}{slk55}{질문이 정말 많네. 여기서 장사는 메이다가 맡고, 방은 메이다의 어머니 아르딘이
+ 관리해. 마을에 주술사는 없지만 약을 구할 순 있을 거야.}
 {805}{}{아, 고마워. 그럼 다른 질문을 할게.}
 {806}{}{필요한 건 전부 알게된 것 같아. 잘 있어.}
 
@@ -378,8 +378,8 @@
 {822}{}{흥미로운 걸. 다른 걸 물어보고 싶은데.}
 {823}{}{그게 내가 알아야 할 전부인 것 같아. 잘 있어.}
 
-{824}{slk60}{The canyon east of herd area supposed to have a walking, howling Spirit. Shaking the
- locals. Grampy Bone don't say a word, though.}
+{824}{slk60}{가축을 치는 곳 동쪽 협곡에는 걸어 다니며 울부짖는 영혼이 있다더군. 마을 사람들은 겁에 질렸어.
+ 하지만 그램피 본은 그 일에 대해 한마디도 안 해.}
 
 {825}{slk61}{스마일리는 훌륭한 사냥꾼이야. 말하길 황금 ㅤㄱㅔㄱ코의 둥지를 찾으러 간다더군. 돌아오질 않았지.}
 
@@ -447,12 +447,12 @@
 {907}{}{평범하게 싸워줘.}
 {908}{}{공격적으로 싸워줘.}
 
-{910}{slk69}{One survivor. Dude was in bad shape. Said evil warriors came with magic torches. Fire
- would lick tribe warriors and they'd go to the spirit.}
+{910}{slk69}{살아남은 사람은 하나였어. 상태가 아주 나빴지. 사악한 전사들이 마법의 횃불을 들고 왔다고
+ 했어. 불길이 부족 전사들을 핥았고, 다들 영혼의 세계로 갔다더군.}
 {911}{}{네 여동생은 어떻게 됐는데?}
 
-{912}{slk69a}{The evil warriors tied up the rest and took off. Sis with 'em. Fren, we be finding her or
- dying trying.}
+{912}{slk69a}{사악한 전사들이 남은 사람들을 묶어 데려갔어. 우리 여동생도 그들과 함께였지. 친구, 우린 목숨을 걸고서라도
+ 여동생을 찾아낼 거야.}
 {913}{}{노예상인같군. 그들에 대해 알아낸거 없어?}
 {914}{}{정말 안됐군. 꼭 여동생을 찾길 바래. 다른걸 물어볼께.}
 {915}{}{이야기는 충분히 들었어. 가볼께.}
@@ -461,8 +461,8 @@
 {917}{slk70b}{우리 부족 전체도 이것보단 적어. 이번 여행에 사람들이 너무 많군.}
 {918}{slk70c}{넌 이미 군대를 가지고 있어. 우리랑 나는 없어도 돼.}
 
-{919}{slk71}{We and I sad to see you take the mark. Think you growing dark in the soul. Have to
- go. See you.}
+{919}{slk71}{네가 그런 낙인을 받다니 우리랑 나는 슬퍼. 네 영혼이 점점 어두워지는 것 같아. 이제
+ 떠나야겠어. 잘 있어.}
 
 {920}{slk72}{사람들을 가져도 좋다고 생각하나? 우린 떠나겠어.}
 
@@ -495,17 +495,17 @@
 {941}{}{걸어다니는 유령?}
 {942}{}{우와. 영혼들? 무시무시하네. 잘 있어.}
 
-{943}{slk80}{To the east is a canyon where Brahmin graze. We hear several moons back there was
- lightning and thunder... without clouds. Evil spirits come to that living land.}
+{943}{slk80}{동쪽에는 브라민이 풀을 뜯는 협곡이 있어. 몇 달 전 그곳에 구름도
+ 없는데 번개와 천둥이 쳤다더군. 그 땅에 사악한 영혼들이 나타났어.}
 {944}{}{정말로?}
 
-{945}{slk80a}{Locals start to hear strange noises. Spirits in torment, say we and I. A few even
- see something there. Spirit-creature not wearing the shape of a man.}
+{945}{slk80a}{마을 사람들이 이상한 소리를 듣기 시작했어. 우리랑 나는 고통받는 영혼의 소리라고
+ 생각해. 어떤 이들은 그곳에서 사람 형상이 아닌 영혼의 생물까지 봤대.}
 {946}{}{허어.}
 {947}{}{위험해 보이네. 토르와는 무슨 상관이 있지?}
 
-{948}{slk80b}{Torr be the butt of many jokes. So him think finding and killing this bad spirit
- make him hero. We think he in trouble. You be helping Torr?}
+{948}{slk80b}{토르는 늘 놀림감이었지. 그래서 나쁜 영혼을 찾아 죽이면 영웅이 될 거라고 생각한
+ 모양이야. 우린 토르가 위험에 빠졌다고 봐. 토르를 도와줄래?}
 {949}{}{허-어!}
 {950}{}{어-허.}
 {951}{}{지금 당장 그를 찾으러 가야겠어.}
@@ -513,8 +513,8 @@
 {953}{}{그에게 시간을 좀 더 줘야 할 것 같다. 우리가 끼어들면 그는 영웅이 될 수 없지. 지역 정보를 좀 얻고 싶군.}
 {954}{}{어, 흥미로운 이야기지만 난 토르를 도울 수 없을 것 같아. 굉장히 바쁘거든. 안녕.}
 
-{955}{slk81a}{Sis found. We send her home. She strong, can make it fine. We want go with you. Grampy
- Bone say you have big path to travel.}
+{955}{slk81a}{여동생을 찾았어. 집으로 돌려보냈지. 강한 아이니까 무사히 갈 거야. 우리랑 나는 너와 함께 가고 싶어.
+ 그램피 본이 네 앞에 큰 여정이 놓였다고 하거든.}
 {956}{slk81b}{이제 너랑 함께 가는 건가?}
 {957}{}{너-어.}
 {958}{}{어-허.}
@@ -592,8 +592,8 @@
 {3039}{}{이해하지 못하겠어.}
 {3040}{}{모르겠어.}
 
-{3050}{slk86}{Being home is cool, but the place is looking a might small now. We've missed the road
- and the company of so fine a fren as you. Wan us to walk by-and-by again.}
+{3050}{slk86}{고향에 돌아오니 좋긴 한데, 이제 여기가 좀 좁아 보이는군. 길 위의 생활도
+ 그리웠고 너처럼 좋은 친구도 그리웠어. 우리랑 나랑 다시 길을 떠날까?}
 {3051}{}{그거 좋군.}
 {3052}{}{미안, 지금당장은 안돼.}
 
@@ -604,8 +604,8 @@
 {3056}{}{다시 생각해보니 역시 나와 함께 가는 게 좋겠다. 미안하다, 네 고향에서 너무 일찍 떼어놓고 싶지 않았을 뿐이다.}
 {3103}{}{너도, 슐릭. 몸 조심해.}
 
-{3057}{slk89}{Good to see home, but not while sis is still gone. Be wanting to stay in your
- company, OK?}
+{3057}{slk89}{고향을 보니 반갑지만 여동생이 아직 돌아오지 않았으니 머물 순 없어. 계속 너와 함께 다니고
+ 싶은데, 괜찮겠어?}
 {3058}{}{좋아.}
 {3059}{}{안돼, 이젠 스스로 동생을 찾아야 될거야.}
 
