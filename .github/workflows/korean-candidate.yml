@@ -1,0 +1,38 @@
+name: Korean combined installer - QA candidate
+on:
+  workflow_dispatch:
+  push:
+    branches: ['ko/**']
+    paths: ['korean/**', '.github/workflows/korean-candidate.yml']
+permissions:
+  contents: read
+jobs:
+  build-candidate:
+    runs-on: windows-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test Korean sources and safe installer
+        run: python -m unittest discover -s korean/tests -v
+      - name: Build byte-exact translation and engine hash pin
+        run: |
+          python korean/build_overlay.py
+          python korean/build_combined.py
+          python korean/combined_installer.py --verify-bundle --config-file korean-dist/installer-config.json --zip-file korean-dist/korean-translation-only.zip
+      - name: Set up packaging
+        run: python -m pip install pyinstaller==6.20.0
+      - name: Build and smoke-test Windows candidate
+        run: python korean/package_installer.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: korean-installer-review-candidate
+          path: korean-candidate-dist/
+          retention-days: 90
+          if-no-files-found: error

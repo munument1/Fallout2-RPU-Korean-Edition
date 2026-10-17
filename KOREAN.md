@@ -30,3 +30,13 @@ master branch is deliberately unchanged.
 - Comparison is the pinned release baseline versus current upstream development HEAD,
   not a guarantee that this upstream HEAD is compatible with the existing release.
 - This ZIP does not include the Korean text renderer. Central Text Engine is separate.
+
+## One-link QA handoffs and release preparation
+
+- Human dialogue/source review (game-specific): [REVIEW_HANDOFF_KO.md](korean/REVIEW_HANDOFF_KO.md)
+- Combined installer candidate & Nexus upload prerequisites: [RELEASE_PREPARATION.md](korean/RELEASE_PREPARATION.md)
+- Reproducible Korean ZIP: run python korean/build_overlay.py (manifest checks required).
+- After verified text edits: run python korean/update_manifest.py --apply <reviewed-source-file>.
+- Windows QA setup is an Actions artifact, not yet a publicly supported stable installer.
+- No Nexus file is automatically uploaded until the exact candidate has human
+  linguistic review, menu/dialogue/combat/save-load/restore tests and SHA approval.

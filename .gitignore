@@ -39,3 +39,5 @@ dat2.list
 **/__pycache__/
 *.pyc
 /korean-speech-report/
+/korean-dist/
+/korean-candidate-dist/

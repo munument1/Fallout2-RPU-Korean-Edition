@@ -1,0 +1,68 @@
+name: Publish approved Korean installer to Nexus Mods
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        type: string
+        required: true
+        description: Exact version approved after linguistic and gameplay QA
+      candidate_run_id:
+        type: string
+        required: true
+        description: Actions run ID of the in-game-tested candidate
+permissions:
+  contents: read
+  actions: read
+concurrency:
+  group: korean-nexus-publish
+  cancel-in-progress: false
+jobs:
+  upload:
+    if: github.actor == 'munument1'
+    environment: nexus-publish
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Download EXACT approved candidate
+        uses: actions/download-artifact@v4
+        with:
+          run-id: ${{ inputs.candidate_run_id }}
+          github-token: ${{ github.token }}
+          name: korean-installer-review-candidate
+          path: nexus-candidate
+      - name: Refuse release without test approval and matching archive SHA
+        id: gate
+        shell: bash
+        env:
+          RELEASE_VERSION: ${{ inputs.version }}
+          CANDIDATE_RUN_ID: ${{ inputs.candidate_run_id }}
+        run: |
+          set -euo pipefail
+          mapfile -t archives < <(find nexus-candidate -type f -name '*-Korean-Setup.zip')
+          test "${#archives[@]}" -eq 1
+          python korean/release_gate.py --version "$RELEASE_VERSION" --run-id "$CANDIDATE_RUN_ID" --archive "${archives[0]}"
+          echo "archive=${archives[0]}" >> "$GITHUB_OUTPUT"
+      - name: Require Nexus API secret and existing mod file ID
+        shell: bash
+        env:
+          NEXUSMODS_API_KEY: ${{ secrets.NEXUSMODS_API_KEY }}
+          NEXUS_FILE_ID: ${{ vars.NEXUS_FILE_ID }}
+        run: |
+          test -n "$NEXUSMODS_API_KEY" || (echo 'Missing NEXUSMODS_API_KEY secret' && exit 1)
+          test -n "$NEXUS_FILE_ID" || (echo 'First upload must be manual; add NEXUS_FILE_ID repository variable' && exit 1)
+      - name: Publish new version of approved Nexus file
+        uses: Nexus-Mods/upload-action@v1.0.0-beta.11
+        with:
+          api_key: ${{ secrets.NEXUSMODS_API_KEY }}
+          file_id: ${{ vars.NEXUS_FILE_ID }}
+          filename: ${{ steps.gate.outputs.archive }}
+          version: ${{ inputs.version }}
+          display_name: Fallout Korean Integrated Installer
+          category: main
+          archive_existing_version: false
+          primary_mod_manager_download: false
+          allow_mod_manager_download: true
+          update_mod_version: false
