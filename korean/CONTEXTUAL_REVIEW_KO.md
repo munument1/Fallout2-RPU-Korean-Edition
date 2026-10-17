@@ -47,8 +47,14 @@
   실제 연결 경로는 SSL Node 등에서 추가로 확인해야 합니다.
 - CP949, printf 치환식, HTML 태그, 대괄호 지시어, 엄격한 게임 용어집을 검사하고
   문제가 있는 모델 출력에는 검토 플래그를 붙입니다.
-- Windows 작업 스케줄러의 옛 Fallout2-RPU-Overnight-Review 예약은
-  번역 품질 검증으로 **사용 중지되어 있습니다**.
-  새 큐는 명시적으로 실행할 때만 동작합니다.
+- 예전 Qwen 기반 Fallout2-RPU-Overnight-Review 예약은 계속
+  **사용 중지되어 있습니다**.
+- 개선한 두 모델 비교기용 로컬 예약은
+  **Fallout2-RPU-Contextual-Review** (매일 오전 3시)입니다.
+  사용자 계정이 로그인 중이고 PC가 켜져 있어야 실행됩니다.
+  한 회차는 최대 115분이고, 다음 회차에서는 완료한 ID를 건너뛰어
+  이미 교정한 번역 파일을 불필요하게 다시 번역하지 않습니다.
+  실행기는 korean/run_contextual_batch.ps1이며 자동 커밋/업로드는 하지 않습니다.
+  제어 예: Disable-ScheduledTask -TaskName Fallout2-RPU-Contextual-Review
 - 이 도구는 번역 초안 생성·비교 시스템이지
   GPT가 실제 모든 분기를 읽어 판단한 인간 수준의 완전한 전수 검수가 아닙니다.

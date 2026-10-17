@@ -1,5 +1,7 @@
 import importlib.util
 from pathlib import Path
+import json
+import tempfile
 import unittest
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -87,6 +89,36 @@ class ContextualReviewTests(unittest.TestCase):
                       review.compare("아이템 %s 획득", "아이템 획득", "item"))
         self.assertIn("not_cp949",
                       review.compare("검수", "검수 🧪", "test"))
+
+    def test_existing_reviewed_pair_is_stable_after_korean_edit(self):
+        before = {
+            "file": "data/text/korean/dialog/mcjo.msg",
+            "msg_id": 159, "english": "Do you have a gold watch?",
+            "korean_current": "금시계를 팔러 온 것은 아니지요?",
+            "context": "Trader Jo's trade branch",
+        }
+        after = {**before, "korean_current": "혹시 판매하는 금시계가 있을까요?"}
+        self.assertNotEqual(
+            review.result_key(before, [review.MODEL_HY]),
+            review.result_key(after, [review.MODEL_HY]),
+        )
+        existing = {
+            "oldhash": {"file": before["file"], "id": before["msg_id"]},
+        }
+        visited = {(v["file"], v["id"]) for v in existing.values()}
+        self.assertIn((after["file"], after["msg_id"]), visited)
+
+    def test_journal_recovery_after_unwritten_checkpoint(self):
+        row = {"key": "example-hash", "file": "data/text/korean/dialog/mcjo.msg",
+               "msg_id": 159, "automatically_approved": False}
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "comparisons.jsonl"
+            path.write_text(json.dumps(row) + "\n{incomplete", encoding="utf-8")
+            state = {"completed": {}, "errors": {}, "model_mode": "both"}
+            self.assertEqual(review.recover_journal(path, state), 1)
+            self.assertEqual(
+                state["completed"]["example-hash"]["id"], 159)
+            self.assertEqual(review.recover_journal(path, state), 0)
 
 
 if __name__ == "__main__":

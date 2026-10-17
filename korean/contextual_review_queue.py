@@ -267,6 +267,27 @@ def save_json_atomic(path: Path, value: dict):
     os.replace(temp, path)
 
 
+def recover_journal(path: Path, state: dict) -> int:
+    """Rebuild missing checkpoints after power loss from append-only results."""
+    if not path.exists():
+        return 0
+    recovered = 0
+    with path.open("r", encoding="utf-8") as f:
+        for line in f:
+            try:
+                item = json.loads(line)
+                key = item["key"]
+                file = item["file"]
+                mid = int(item["msg_id"])
+            except (ValueError, TypeError, KeyError):
+                # Ignore a partially-written final record; never invent data.
+                continue
+            if key not in state["completed"]:
+                state["completed"][key] = {"file": file, "id": mid}
+                recovered += 1
+    return recovered
+
+
 def evaluate_one(item: dict, models: list[str], timeout: int,
                  cfg: dict | None = None) -> dict:
     comparison = {}
@@ -309,6 +330,9 @@ def main():
     state = json.loads(state_path.read_text(encoding="utf-8")) if state_path.exists() else {
         "completed": {}, "errors": {}, "model_mode": args.model,
     }
+    recovered = recover_journal(out / "comparisons.jsonl", state)
+    if recovered:
+        save_json_atomic(state_path, state)
     if args.status:
         print(json.dumps({
             "completed": len(state["completed"]),
@@ -319,6 +343,15 @@ def main():
     if state["model_mode"] != args.model:
         ap.error("Different model configuration requires a new --out directory")
     models = [MODEL_HY] if args.model == "hy" else [MODEL_HY, MODEL_GEMMA]
+    # Human review can change the current KO without affecting the model's
+    # English->Korean prompt. Keep advancing instead of re-translating
+    # already visited IDs after each review commit. A fresh --out enables
+    # deliberate rechecks after a major game/profile change.
+    visited_pairs = {
+        (entry["file"], int(entry["id"]))
+        for entry in state["completed"].values()
+        if isinstance(entry, dict) and "file" in entry and "id" in entry
+    }
     cfg = profiles()
     english_map, script_map = source_paths()
     paths = ordered_files()
@@ -349,6 +382,7 @@ def main():
             if selected_ids is not None and mid not in selected_ids:
                 continue
             if time.monotonic() >= deadline or done >= args.max_items:
+                save_json_atomic(state_path, state)
                 print(f"PAUSED {done} this run; total "
                       f"{len(state['completed'])}", flush=True)
                 return
@@ -357,6 +391,8 @@ def main():
             item = record_for(
                 path, mid, english_map, script_map, cfg,
                 src_english=english, src_korean=korean, source_ssl=ssl)
+            if (item["file"], mid) in visited_pairs:
+                continue
             key = result_key(item, models)
             if key in state["completed"]:
                 continue
@@ -368,8 +404,12 @@ def main():
                     f.write(json.dumps(result, ensure_ascii=False) + "\n")
                     f.flush()
                 state["completed"][key] = {"file": item["file"], "id": mid}
-                save_json_atomic(state_path, state)
+                visited_pairs.add((item["file"], mid))
                 done += 1
+                # JSONL is the crash-safe journal. Avoid rewriting a growing
+                # multi-MB JSON object after each of ~57k comparisons.
+                if done % 25 == 0:
+                    save_json_atomic(state_path, state)
                 print(f"NEW {item['file']} ID {mid} "
                       f"flagged={sum(bool(v['structural_flags']) for v in result['models'].values())} "
                       f"total={len(state['completed'])}", flush=True)
@@ -378,6 +418,7 @@ def main():
                 save_json_atomic(state_path, state)
                 print(f"ERROR {path.name} {mid}: {ex}", file=sys.stderr, flush=True)
                 raise SystemExit(2)
+    save_json_atomic(state_path, state)
     print("COMPLETE", len(state["completed"]))
 
 
