@@ -1,0 +1,653 @@
+
+#FALLOUT 2 비공식 패치
+
+@제작
+killap
+
+@추가 도움
+Haenlomal
+Darek
+Seraph
+Per
+버그 보고를 올려 준 모든 분들
+
+
+
+#FALLOUT 2 복원 프로젝트
+
+@제작
+killap
+
+
+#프로그래밍
+
+@수석 프로그래머
+killap
+
+@추가 프로그래밍
+Darek
+Chris Parks
+MIB88
+
+
+#작문
+
+@수석 작가
+Adam Dravean
+
+@작가
+killap
+encinodude
+Minigun Jim
+Yamu
+Mikael Grizzly
+SuAside
+Bofast
+
+
+#그래픽
+
+@수석 아티스트
+Pixote
+
+@추가 아트
+Continuum
+Josan12
+x'il
+Jotisz
+Wild-Qwerty
+Grayswandir
+Mutants Rising 제작진
+Fallout: Between Good & Evil 제작진
+killap
+Lich
+Crowley
+Nikki
+
+
+#맵 제작
+
+@수석 맵 제작자
+Pixote
+
+@추가 맵 제작
+killap
+Chris Parks
+Skynet
+Deadlus
+
+
+#음악
+hologram
+
+
+#성우
+@캐시디
+Adam Dravean
+
+
+#립싱크 코디네이터
+Aguirre
+Agris
+Josan12
+tobecooper
+Ardent
+
+
+#번역
+
+@러시아어 번역
+aliet
+Magnat
+rj rl
+DominionZ
+BaD3uM
+Tschumann
+vindicator
+Drobovik
+
+
+추가 편집
+
+Drobovik
+SeregaTopor
+러시아 Fallout 커뮤니티
+
+베타 테스터
+
+9in
+Aleksey Kluchnikov aka General Maxon
+Tschumann
+vindicator
+2FARAON
+SuperBul
+IRaven
+vlad2204
+Nickolas
+trisem
+Trephs
+
+@폴란드어 번역
+Mad Ivan
+Kryspin013
+szczypiorofix
+tibrion
+Johny8888
+Semietiev
+Juraszka
+Chad669
+Fallout "Trzynasty Schron" 폴란드 커뮤니티
+
+@독일어 번역
+Mr. Wolna
+FalloutNow! 커뮤니티
+
+@프랑스어 번역
+HawK-EyE
+Fallout 프랑스 커뮤니티
+
+
+#추가 콘텐츠
+ART
+Continuum
+Corpse
+Glovz
+Haenlomal
+Josan12
+Lisac2k
+Mash
+pelicano
+
+
+#기술 지원
+Darek
+NovaRain
+Morticia
+Tomten
+Timeslip
+Mash
+gracul
+Slowhand
+GanymeDes
+Nevill
+Ochrei
+Petrell
+Hootl
+aboniks
+memetics
+FallMan
+No Mutants Allowed 커뮤니티
+제가 빠뜨린 모든 분들
+
+
+#FALLOUT 2 고해상도 패치
+
+@제작
+Mash
+
+
+
+#FALLOUT 2 개발팀
+
+#프로그래밍
+
+@수석 프로그래머
+Jesse Reynolds
+
+@프로그래머
+Chris Jones
+Nick Kesting
+Robert Hertenstein 2
+Thomas French
+Chris Holland
+Dan Spitzley
+
+@추가 프로그래밍
+Tim Cain
+John Price
+Michael Bernstein
+
+@영상 기술
+Paul Edelstein
+
+@설치 프로그램/자동 실행
+Darren Monahan
+
+
+#아트
+
+@수석 아티스트
+Gary Platner
+Tramell Ray Isaac
+
+@아티스트
+Robert Collier
+Jeff McAteer
+Brian Menze
+Scott Rodenhizer
+
+@추가 아트
+Aaron Brown
+Peter Kroko
+Michael Sean McCarthy
+Chad Moore
+Eddie Rainwater
+Justin Sweet
+Vance Kovacs
+Tim Donley
+
+@인턴 아티스트
+Charles M. Gregory
+Daniel Jacobs
+John Jacobs
+Karel Jacobs
+Christopher Jones
+Benc Orpak
+Adoni Torres
+
+@원작 게임 아트
+Jason Anderson
+Leonard Boyarsky
+Michael Dean
+Sharon Shellman
+
+
+#디자인
+
+@수석 디자이너
+Feargus Urquhart
+Matthew J. Norton
+
+@디자이너
+Jason G. Suinn
+John Deiley
+Chris Avellone
+David "Zeb" Cook
+Dave Hendee
+Colin McComb
+
+@테크니컬 디자이너
+Scott Everts
+
+@레벨 디자이너
+John Deiley
+Scott Everts
+Jason G. Suinn
+
+@추가 디자인
+Robert Hertenstein 2
+Nick Kesting
+Fred Hatch
+
+@디자인/대사
+Mark O'Green
+
+@원작 게임 디자인
+Tim Cain
+Leonard Boyarsky
+Jason Anderson
+Jason Taylor
+Scott Campbell
+
+@SPECIAL 게임 시스템 디자인
+Chris Taylor
+Tim Cain
+Jess Heinig
+Feargus Urquhart
+
+
+#제작
+
+@부문 디렉터
+Feargus Urquhart
+
+@프로듀서
+Eric Demilt
+Feargus Urquhart
+
+@보조 프로듀서
+Fred Hatch
+Douglas Avery
+
+@부문 부디렉터
+Jeremy Barnes
+
+@립싱크 코디네이터
+Jason G. Suinn
+Dave Hendee
+
+@립싱크 아티스트
+Douglas Avery
+Chris Benson
+David "Zeb" Cook
+Jacob Devore
+Kenneth Lee
+Colin McComb
+
+
+
+#품질 보증
+
+@품질 보증 디렉터
+Chad Allison
+
+@QA 매니저
+Steve Victory
+Colin Totman
+
+@PC 버전 프로젝트 감독
+Greg "Moose" Baumeister
+Steve McLafferty
+Darrell Jones
+
+@PC 버전 선임 테스터
+Dennis Presnell
+Chad Nicholas
+Dave Simon
+
+@PC 버전 테스터
+Ed Hyland
+Dany Martinez
+WR Saunders
+Rodney Smith
+Tony Piccoli
+David Maldonado
+Dan Levin
+Eric Pribish
+Scott Warner
+Derek Johnson
+Tim Anderson
+Primo Pulanco
+Jeremy Ray
+Jeremy Seely
+Henry Lee
+Scott Humphreys
+
+@I.S. 호환성 매니저
+Frank Pimentel
+
+@선임 I.S. 기술자
+Bill Delk
+
+@I.S. 기술자
+Tom Quast
+
+@QA 데이터베이스 관리자
+Steve Cabiness
+
+@호환성 기술자
+Derek Gibbs
+John Parker
+Ed Robles
+Louie Iturzaeta
+
+
+
+#오디오
+
+@오디오 디렉터
+Charles Deenen
+
+@오디오 마스터링
+Craig Duman
+
+@음성 녹음 디렉터
+Jamie Thomason
+
+@음성 녹음 코디네이터
+Julie Morgavi
+
+@음성 녹음 감독
+Chris Borders
+
+@음성 녹음 편집
+Frank Szick
+Kevin Frayser
+Ron Valdez
+
+@음성 녹음: Marc Graue Studio
+
+@사운드 디자인
+Paul Menichini
+Tim Walston
+
+@시네마틱 사운드 디자인
+David Farmer
+
+@시네마틱 재녹음 믹싱
+Charles Deenen
+
+@Interplay Audio에서 Dolby [TM] Surround로 믹싱
+
+@오디오 관리자
+Gloria Soto
+
+@추가 사운드 디자인
+Larry Peacock
+Weddington
+EFX
+Eight Ball Sound
+Charles Deenen
+
+@음성 녹음 엔지니어
+Wes Smith
+Julian Cook
+Marc Graue Studios 소속
+
+@음악
+Mark Morgan
+@제공
+Four Bars Intertainment
+@및
+Rick Jackson
+
+@음성 프로듀서
+Fred Hatch
+
+
+@출연 성우
+
+Charlie Adler
+@해럴드
+
+Ron Perlman
+@내레이터
+
+Dwight Schultz
+@하쿠닌
+
+Jason Marsden
+@마이론
+
+Cree Summer
+@리넷
+
+Kevin Michael Richardson
+@통신 장교
+
+Peter Jason
+@훈련 교관
+
+Peter Jason
+@게이트 경비병
+
+Flo DiRe
+@장로
+
+Tress MacNeille
+@탠디
+
+Greg Eagles
+@술릭
+
+Michael Dorn
+@마커스
+
+Michael Dorn
+@프랭크 호리건
+
+Jeffrey Jones
+@대통령
+
+
+
+"A KISS TO BUILD A DREAM ON"
+@노래: Louie Armstrong
+@GRP Records 제공
+@UNIVERSAL MUSIC SPECIAL MARKETS의 허가 사용
+
+"A KISS TO BUILD A DREAM ON"
+@작곡: Bert Kalmer, Harry Ruby, Oscar Hammerstein II
+@(C) 1935, 1951 갱신 1963, 1979 METRO GOLDWYN MAYER, INC.
+@권리 양도: EMI CATALOGUE PARTNERSHIP
+@모든 권리는 EMI MILLER CATALOG INC.에서 관리
+@모든 권리 보유. 국제 저작권 보호.
+@허가를 받아 사용.
+
+@경고: 이 프로그램 또는 그 일부를
+@저작권자의 명시적 서면 허가 없이
+@복사, 복제 또는 재생산하는 행위는
+@연방 저작권법 위반입니다.
+
+
+#비디오
+
+@비디오 서비스 제공
+Dave Cravens
+Stephen Miller
+Bill Stoudt
+Dan Williams
+
+
+#마케팅
+
+@마케팅 디렉터
+Paul Sackman
+
+@마케팅 매니저
+Mike Markin
+Greg Peterson
+
+@마케팅 부매니저
+Greg Bauman
+
+@홍보 매니저
+Krys Card
+
+@트래픽 매니저
+Thom Dohner
+Paul Naftalis
+
+
+
+
+@감사 인사
+@(Dave H.) The Unwashed Villagers, Dyer 가족,
+@Jamba Juice, The Tick, Southpark; (Chris A.) 내 "친구",
+@Thuy Dang, Eileen Suh, Avellone 부모님; (t.ray)
+@어머니, 아버지, 아들, 형제, 그리고 이 게임을 사 준
+@사랑스러운 모든 팬들; (Rob H.)
+@Becky Warner와 Billie Ryder; (Matt N.) Meine
+@DieMonika und der kater; (Jesse R.) "아버지께,
+@아버지는 평생 제게 영감이었습니다. 늘 그립습니다
+@항상."
+
+@특별 감사:
+@Fallout 및 Fallout 2 게시판 회원들.
+@의견, 제안, 그 밖의 깊은 이야기들에 감사드립니다!
+@기대 이상으로 많은 처리를 해 준 Interplay Video Room,
+@정말 고맙습니다!
+
+@Fallout 2는 Interplay Productions,
+@Team Fallout 2, 문자 Q와 숫자 42, 20이 만들었습니다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@좋아요, 정 그렇다면...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@아주 특별한 조우는 찾으셨나요?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@계속 찾아보세요...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@어쩌면 몰타의 매를 찾을지도요?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@하! 즐기세요...
