@@ -1,0 +1,71 @@
+{
+  "schema": 1,
+  "baseline": "RPU 2.4.34",
+  "general_glossary": {
+    "Vault": "볼트",
+    "Vault 13": "볼트 13",
+    "Chosen One": "선택받은 자",
+    "GECK": "GECK",
+    "Enclave": "엔클레이브",
+    "FEV": "FEV",
+    "Vertibird": "버티버드",
+    "Navarro": "나바로",
+    "Modoc": "모독",
+    "Brother Thomas": "토마스 수사",
+    "Red menace": "공산주의 세력 또는 적색 위협(문맥 의존)",
+    "pasture pies": "소똥(농촌의 완곡어)",
+    "epitaph": "묘비명, 비문",
+    "soap": "비누(수프 아님)"
+  },
+  "required_game_terms": [
+    "Vault 13",
+    "GECK",
+    "Enclave",
+    "FEV",
+    "Vertibird",
+    "Navarro",
+    "Modoc"
+  ],
+  "speakers": {
+    "qhprzrch": {
+      "speaker": "President Dick Richardson, Enclave president",
+      "register": "리처드슨 NPC Reply: 대통령으로서 권위적인 하오체나 반말. 적대·위협, 겁먹고 항복하는 상황은 SSL 분기에 따라 변화. 플레이어 선택지에는 적용 금지",
+      "extra": "Enclave villain. In hostile context 'take someone out of the picture' threatens killing/removing someone permanently. Player threats use their own voice. Never treat NPC reply and player choice as the same person."
+    },
+    "kcsulik": {
+      "speaker": "Sulik, tribal companion",
+      "register": "술릭 NPC: 투박하고 친근한 반말. 'We and I'는 그램피 본/영혼과 함께 자신을 일컫는 독특한 어법. 평범한 해요체로 정규화 금지",
+      "extra": "Folksy idioms and rural vulgar similes are intentional. Low-IQ PC responses may be unusual. Avoid invented gender or honorifics."
+    },
+    "hcmarcus": {
+      "speaker": "Marcus, Broken Hills mutant sheriff and companion",
+      "register": "마커스 NPC: 보안관/공식 대화 하오체, 친근한 동료·전투·농담에서는 반말. 둘을 일괄 통일 금지",
+      "extra": "Different branches address sheriff visitors, player companion, allies or enemies."
+    },
+    "vclynett": {
+      "speaker": "First Citizen Lynette, Vault City",
+      "register": "리네트 NPC: 대체로 단호한 하십시오/합니다체, 일부 해요체와 격분·저지능 예외. 플레이어 Option은 별도",
+      "extra": "Authoritarian Vault City leader; citizenship versus outsider status changes tone."
+    },
+    "ahmonk": {
+      "speaker": "Abbot at the Abbey",
+      "register": "수도원장 NPC: 일반적인 성인에게 점잖은 하게체. 저지능 플레이어를 대하는 분기는 친근한 반말 예외. PC 보수 요구는 PC 발화",
+      "extra": "Knowledge-preserving monastery, Brother Thomas (토마스 수사), sacred books, monastery pump. Abbot isn't the player."
+    },
+    "acwarior": {
+      "speaker": "Arroyo village warrior",
+      "register": "아로요 전사 NPC: 선택받은 자에게 존대 기본. 저지능 조롱과 적대 분기는 별도의 어조",
+      "extra": "Tribal greeting, duty to the Chosen One, spiritual language."
+    },
+    "ahelder": {
+      "speaker": "Elder of Arroyo",
+      "register": "아로요 장로 NPC: 자애로우면서 권위적인 하게체. 사명 독촉/죽음의 위협에서는 절박하게 변화. PC 선택지는 별개",
+      "extra": "GECK and Vault 13 quest, tribe dying, Vic in Klamath. Repetitions in low-intelligence dialogue are intentional."
+    },
+    "ocgoris": {
+      "speaker": "Goris, intelligent scholarly deathclaw",
+      "register": "고리스 NPC: 지적이고 점잖은 하오체. 저지능 상대 및 전투 예외. PC 질문/선택지에는 하오체 강요 금지",
+      "extra": "Vault 13 scholar, cloaked deathclaw, speech fragments sometimes concatenated from several mstr IDs."
+    }
+  }
+}
