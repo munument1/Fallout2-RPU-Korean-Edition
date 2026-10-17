@@ -38,3 +38,4 @@ dat2.list
 /korean-report/
 **/__pycache__/
 *.pyc
+/korean-speech-report/

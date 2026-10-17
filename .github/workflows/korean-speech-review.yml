@@ -1,0 +1,42 @@
+name: Korean dialogue register audit (manual)
+
+on:
+  workflow_dispatch:
+    inputs:
+      script_limit:
+        description: 'Maximum matched NPC scripts to inspect (0 = all; large runs may take longer)'
+        type: choice
+        required: true
+        default: '75'
+        options:
+          - '75'
+          - '150'
+          - '0'
+
+permissions:
+  contents: read
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run auditor tests
+        run: python -m unittest discover -s korean/tests -v
+      - name: Identify candidate NPC speech register inconsistencies
+        env:
+          SCRIPT_LIMIT: ${{ inputs.script_limit }}
+        run: python korean/audit_dialogue_register.py --script-limit "$SCRIPT_LIMIT" --out korean-speech-report
+      - name: Upload review leads for manual verification
+        uses: actions/upload-artifact@v4
+        with:
+          name: korean-npc-dialogue-register-review
+          path: korean-speech-report/
+          if-no-files-found: error
