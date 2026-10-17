@@ -6190,8 +6190,8 @@
     {
       "path": "data/text/korean/dialog/qhprzrch.msg",
       "zip_path": "data/text/korean/dialog/qhprzrch.msg",
-      "sha256": "ca13c4b04d0256d74713cfcf8ad9edb0838970b13a96cc0ae98d03116b390e0f",
-      "bytes": 18042
+      "sha256": "5a3f9cec4263d791c10c438ec99403bd1153eff39ad9a80e8dcb1f8fcc84971c",
+      "bytes": 18123
     },
     {
       "path": "data/text/korean/dialog/qibstdr1.msg",
@@ -7318,8 +7318,8 @@
     {
       "path": "data/text/korean/dialog/vclynett.msg",
       "zip_path": "data/text/korean/dialog/vclynett.msg",
-      "sha256": "79c3c31b55aea5e98633c0652f8d7ffbd4ddee48abca528b6bd2ab320bacb729",
-      "bytes": 58660
+      "sha256": "50921c1fff6f28af04bcf6703683f63113a12c29f60e602a2bd88bceb4beb678",
+      "bytes": 58673
     },
     {
       "path": "data/text/korean/dialog/vcmacrae.msg",
