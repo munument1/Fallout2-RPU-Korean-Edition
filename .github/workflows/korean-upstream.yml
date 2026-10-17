@@ -1,0 +1,65 @@
+name: Korean data build and upstream analysis
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 4 * * *'
+  push:
+    branches: ['ko/**']
+    paths:
+      - 'korean/**'
+      - 'KOREAN.md'
+      - '.gitattributes'
+      - '.github/workflows/korean-upstream.yml'
+permissions:
+  contents: read
+  issues: write
+concurrency:
+  group: korean-review
+  cancel-in-progress: false
+jobs:
+  translation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+          filter: blob:none
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python korean/build_overlay.py
+      - run: python -m unittest discover -s korean/tests -v
+      - uses: actions/upload-artifact@v4
+        with:
+          name: korean-translation-only
+          path: korean-dist/korean-translation-only.zip
+          if-no-files-found: error
+  upstream:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+          filter: blob:none
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch latest upstream tree (read only)
+        run: |
+          python -c 'import json,subprocess; x=json.load(open("korean/manifest.json")); subprocess.run(["git","remote","add","upstream","https://github.com/"+x["upstream"]+".git"],check=True)'
+          git -c protocol.version=2 fetch --no-tags --depth=1 --filter=blob:none upstream "$(python -c 'import json; print(json.load(open("korean/watch-config.json"))["baseline_tag"])')"
+          git -c protocol.version=2 fetch --no-tags --depth=1 --filter=blob:none upstream master
+      - name: Compare English MSG IDs and script changes
+        run: python korean/check_upstream.py --head FETCH_HEAD --report-dir korean-report
+      - uses: actions/upload-artifact@v4
+        with:
+          name: upstream-korean-review-report
+          path: korean-report/
+          if-no-files-found: error
+      - name: Open or update one review issue
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python korean/post_review_issue.py

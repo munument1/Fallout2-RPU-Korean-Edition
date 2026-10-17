@@ -13,3 +13,20 @@ master branch is deliberately unchanged.
   or a future combined installer that applies the engine patch for the user.
 - Do not redistribute prepatched proprietary game executables.
 - Re-evaluate English text and scripts before applying this branch to any newer upstream.
+
+## Automated upstream review and translation build
+
+- Korean source branch: ko/v2.4.34. Upstream-tracking master is kept separately.
+- Pinned source baseline: upstream release v2.4.34 (2c5aff7c4132).
+- GitHub Actions workflow korean-upstream.yml: daily at 04:23 UTC,
+  on edits to Korean tooling, or manually from the Actions tab.
+- Local build: python korean/build_overlay.py (byte-verified translation ZIP only).
+- Local MSG tests: python -m unittest discover -s korean/tests -v.
+- Update upstream reference: git fetch --no-tags upstream master
+- Local review: python korean/check_upstream.py --head upstream/master --report-dir korean-report
+- Workflow uploads translation ZIP and JSON/Markdown review as separate artifacts.
+- Scheduled/manual runs maintain ONE open review issue, updated only when upstream SHA changes.
+  Upstream code and Korean translations are NEVER automatically merged or installed.
+- Comparison is the pinned release baseline versus current upstream development HEAD,
+  not a guarantee that this upstream HEAD is compatible with the existing release.
+- This ZIP does not include the Korean text renderer. Central Text Engine is separate.

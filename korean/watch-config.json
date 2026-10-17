@@ -1,0 +1,6 @@
+{
+  "target_branch": "master",
+  "baseline_sha": "2c5aff7c413271236e030d302c44cf006637e034",
+  "no_auto_merge": true,
+  "baseline_tag": "v2.4.34"
+}
