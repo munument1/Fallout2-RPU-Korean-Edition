@@ -1918,8 +1918,8 @@
     {
       "path": "data/text/korean/dialog/ahmonk.msg",
       "zip_path": "data/text/korean/dialog/ahmonk.msg",
-      "sha256": "f36e0cb53f6d8e159aef2f06639cb903d3dd958cb423201327ae04adc097074b",
-      "bytes": 11317
+      "sha256": "4bf9c20de722d2bbba99efdd3e3316d5bf10968e26b9bca80d6196fc06ed3dcd",
+      "bytes": 10890
     },
     {
       "path": "data/text/korean/dialog/aichest.msg",
