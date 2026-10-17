@@ -1,0 +1,6 @@
+﻿msg_id,speaker_context,english,previous_korean,updated_korean,reason
+113,goris_reply_fragment,"So you're an outsider! I've seen a few like you; some are staying here in the vault, but you
+ look different. You appear to be more 'seasoned,' if you know what I mean. I'll bet you've been around
+ a bit and accomplished things. Am I right?","아, 외부인이었소! 당신 같은 분을 몇 만나 봤지. 지금도 몇 명은 볼트에 머물고 있지만, 당신은 좀 다르군. 무슨 뜻인지 아시겠지만 더 '노련해' 보이오. 세상을 돌아다니며 여러 일을 해내셨을 것 같소. 맞소?","아, 외부에서 오셨구려! 당신 같은 분을 몇 만나 봤지. 지금도 몇 명은 볼트에 머물고 있지만, 당신은 좀 다르군. 무슨 뜻인지 아시겠지만 더 '노련해' 보이오. 세상을 돌아다니며 여러 일을 해내셨을 것 같소. 맞소?",ocgoris.ssl의 Node002/003에서 Reply(mstr(...)) 연결 시 같은 고리스의 하오/하게체가 이어지도록 후속 교열
+120,goris_reply_fragment,It's a deal! I would love to hear anything you can tell me.,물론이죠! 당신이 내게 얘기해 줄 것들이 정말 기대되네요.,좋소! 당신이 들려줄 이야기가 아주 기대되는구려.,ocgoris.ssl의 Node002/003에서 Reply(mstr(...)) 연결 시 같은 고리스의 하오/하게체가 이어지도록 후속 교열
+121,goris_reply_fragment,"Besides, I couldn't refuse a friend of Gruthar.",게다가 그루서의 친구를 박하게 대할 수야 있나요.,게다가 그루서의 친구를 거절할 수는 없는 노릇이지.,ocgoris.ssl의 Node002/003에서 Reply(mstr(...)) 연결 시 같은 고리스의 하오/하게체가 이어지도록 후속 교열
