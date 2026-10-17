@@ -1,0 +1,221 @@
+﻿msg_id,speaker_context,english,previous_korean,updated_korean,reason
+329,lynette_reply,"A tribal legend? You'll need something more substantial than some... tribal MYTH if you
+ want anyone to believe your claim.","A tribal legend? You'll need something more substantial than some... tribal MYTH if you
+ want anyone to believe your claim.","부족의 전설이라고요? 남들이 당신 말을 믿게 하려면 그따위... 부족의 신화 말고 좀
+ 더 확실한 증거가 필요할 겁니다.",영어 원문 및 scripts_src/main/vclynett.ssl Reply 분기를 대조해 미번역 복구
+335,lynette_reply,"We could check the Vault computers. They would probably have the information you seek.
+ But only Citizens are allowed to access the archives.","We could check the Vault computers. They would probably have the information you seek.
+ But only Citizens are allowed to access the archives.","볼트 컴퓨터를 확인해 볼 수는 있겠군요. 아마 당신이 찾는 정보가 있을 겁니다.
+ 하지만 기록 보관소는 시민만 출입할 수 있습니다.",영어 원문 및 scripts_src/main/vclynett.ssl Reply 분기를 대조해 미번역 복구
+339,lynette_reply,"Rather than taking the test, you could prove your commitment to the Vaults in a more...
+substantial way. As an Outsider, you are in a unique position to resolve a difficult... situation for us.","Rather than taking the test, you could prove your commitment to the Vaults in a more...
+substantial way. As an Outsider, you are in a unique position to resolve a difficult... situation for us.","시민권 시험을 치르는 대신, 볼트에 대한 헌신을 좀 더... 실질적인 방법으로
+증명할 수도 있습니다. 외부인인 당신은 우리가 겪는 까다로운... 문제를 해결하기에 적합하지요.",영어 원문 및 scripts_src/main/vclynett.ssl Reply 분기를 대조해 미번역 복구
+345,lynette_reply,"Murderers, both of them. Boyarsky was exiled ten years ago, and Richard Moreau was exiled
+ shortly after we left the Vault. Citizenship is a sacred trust -- crime is not tolerated within our walls.","Murderers, both of them. Boyarsky was exiled ten years ago, and Richard Moreau was exiled
+ shortly after we left the Vault. Citizenship is a sacred trust -- crime is not tolerated within our walls.","둘 다 살인자입니다. 보야르스키는 10년 전에 추방됐고, 리처드 모로는 우리가 볼트에서
+ 나온 직후 추방됐습니다. 시민권은 신성한 신뢰의 증표입니다. 우리 성벽 안에서는 범죄를 용납하지 않습니다.",영어 원문 및 scripts_src/main/vclynett.ssl Reply 분기를 대조해 미번역 복구
+350,lynette_reply,"What are you talking about? You must be mistaken. Whatever... ""Vault Dweller"" YOU'RE
+ speaking of must be from some other Vault.","What are you talking about? You must be mistaken. Whatever... ""Vault Dweller"" YOU'RE
+ speaking of must be from some other Vault.","무슨 말씀입니까? 뭔가 착각하신 것 같군요. 당신이 말하는 그... '볼트
+ 거주자'가 누구든 다른 볼트 출신일 겁니다.",영어 원문 및 scripts_src/main/vclynett.ssl Reply 분기를 대조해 미번역 복구
+354,lynette_reply,"There's a town... if you could call it that... to the northeast of our city. It is filled
+ with... creatures that are polluting the groundwater with dangerous radiation.","There's a town... if you could call it that... to the northeast of our city. It is filled
+ with... creatures that are polluting the groundwater with dangerous radiation.","우리 도시 북동쪽에 마을이 하나 있습니다... 마을이라고 부를 수 있다면 말이지요.
+ 그곳에는... 위험한 방사능으로 지하수를 오염시키는 괴물 같은 것들이 득실거립니다.",영어 원문 및 scripts_src/main/vclynett.ssl Reply 분기를 대조해 미번역 복구
+362,lynette_reply,"Those... things... are operating a damaged atomic power plant. You see, THEY are
+ immune to radiation... they don't care that they are slowly killing us with their poisons.","Those... things... are operating a damaged atomic power plant. You see, THEY are
+ immune to radiation... they don't care that they are slowly killing us with their poisons.","그... 것들은... 고장 난 원자력 발전소를 가동하고 있습니다. 그들은 방사능에
+ 면역이니까요... 자기들이 퍼뜨리는 오염 물질로 우리를 서서히 죽이고 있어도 아랑곳하지 않습니다.",영어 원문 및 scripts_src/main/vclynett.ssl Reply 분기를 대조해 미번역 복구
+366,lynette_reply,"Very well, let me see... These... these are authentic! Unbelievable... you ARE a
+ survivor from another vault! Welcome to our City... you must have suffered much in the outside world.","Very well, let me see... These... these are authentic! Unbelievable... you ARE a
+ survivor from another vault! Welcome to our City... you must have suffered much in the outside world.","좋습니다, 어디 봅시다... 이건... 진품이군요! 믿을 수가 없군요... 정말
+ 다른 볼트의 생존자였군요! 우리 도시에 오신 걸 환영합니다... 외부 세계에서 고생이 많으셨겠군요.",영어 원문 및 scripts_src/main/vclynett.ssl Reply 분기를 대조해 미번역 복구
+371,lynette_reply,"I'm giving you an opportunity few Outsiders ever receive. You may take the test, if you
+ wish. But resolving this situation for us may prove more rewarding. Do you understand me?","I'm giving you an opportunity few Outsiders ever receive. You may take the test, if you
+ wish. But resolving this situation for us may prove more rewarding. Do you understand me?","외부인으로서는 좀처럼 얻지 못할 기회를 드리는 겁니다. 원한다면 시험을 치를 수
+ 있습니다. 하지만 이 문제를 해결해 주신다면 더 큰 보상을 받을 수도 있지요. 아시겠습니까?",영어 원문 및 scripts_src/main/vclynett.ssl Reply 분기를 대조해 미번역 복구
+376,lynette_reply,"Oh... that's right. The Proconsul mentioned we had gained a new Citizen. Welcome,
+ Citizen. As for the archives, yes... they are located inside our Vault. Peruse them at your leisure.","Oh... that's right. The Proconsul mentioned we had gained a new Citizen. Welcome,
+ Citizen. As for the archives, yes... they are located inside our Vault. Peruse them at your leisure.","아... 맞습니다. 집정관이 새 시민이 생겼다고 했지요. 환영합니다,
+ 시민. 기록 보관소 말씀이군요... 우리 볼트 안에 있습니다. 자유롭게 열람하십시오.",영어 원문 및 scripts_src/main/vclynett.ssl Reply 분기를 대조해 미번역 복구
+433,lynette_reply,"Do you take me for a FOOL? If anyone would know these were fakes, it would be me! Who
+ gave you these papers?! If you tell me, I will allow you to keep your Day Pass.","Do you take me for a FOOL? If anyone would know these were fakes, it would be me! Who
+ gave you these papers?! If you tell me, I will allow you to keep your Day Pass.","내가 바보로 보입니까? 이 문서들이 가짜라는 걸 누구보다 잘 아는 사람이 바로 나입니다!
+ 이 서류는 누가 줬습니까?! 말해 준다면 일일 출입증은 그대로 갖게 해드리겠습니다.",영어 원문 및 scripts_src/main/vclynett.ssl Reply 분기를 대조해 미번역 복구
+440,lynette_reply,"Oh, really? That confirms my suspicions. Your Vault City access is now revoked. Hand
+ over your Day Pass and go with my guards to the front gate.","Oh, really? That confirms my suspicions. Your Vault City access is now revoked. Hand
+ over your Day Pass and go with my guards to the front gate.","오, 그랬습니까? 그렇다면 내 의심이 맞았군요. 당신의 볼트 시티 출입 허가를 취소하겠습니다.
+ 일일 출입증을 내놓고 경비를 따라 정문으로 가십시오.",영어 원문 및 scripts_src/main/vclynett.ssl Reply 분기를 대조해 미번역 복구
+463,lynette_reply,"What if we do? That is only a temporary solution. Please FIX the problem, NOT their power
+ plant. Am I making myself clear?","What if we do? That is only a temporary solution. Please FIX the problem, NOT their power
+ plant. Am I making myself clear?","우리가 그렇게 하면 어쩌겠습니까? 임시방편에 불과합니다. 그들의 발전소가 아니라 오염 문제를 해결하란
+ 말입니다. 내 말 알아들었습니까?",영어 원문 및 scripts_src/main/vclynett.ssl Reply 분기를 대조해 미번역 복구
+468,lynette_reply,"What is this... creature... you have with you?! Such... things are not permitted inside
+ Vault City! Guards! Escort these intruders to the front gate at once!","What is this... creature... you have with you?! Such... things are not permitted inside
+ Vault City! Guards! Escort these intruders to the front gate at once!","당신과 함께 온 저... 생물은... 대체 뭡니까?! 그런... 것들은 볼트 시티 안에
+ 들어올 수 없습니다! 경비! 이 침입자들을 당장 정문으로 데려가십시오!",영어 원문 및 scripts_src/main/vclynett.ssl Reply 분기를 대조해 미번역 복구
+469,lynette_reply,"Oh, did I? I seem to recall you claiming that you were a Citizen. You are no longer
+ permitted inside Vault City. My guards will escort you to the front gate.","Oh, did I? I seem to recall you claiming that you were a Citizen. You are no longer
+ permitted inside Vault City. My guards will escort you to the front gate.","아, 그랬던가요? 당신이 시민이라고 주장했던 걸로 기억합니다만. 이제 볼트
+ 시티에 들어올 수 없습니다. 경비가 정문까지 데려다줄 겁니다.",영어 원문 및 scripts_src/main/vclynett.ssl Reply 분기를 대조해 미번역 복구
+470,lynette_reply,"I've had enough of your foolishness! You are no longer permitted inside Vault City. My
+ guards will escort you to the front gate.","I've had enough of your foolishness! You are no longer permitted inside Vault City. My
+ guards will escort you to the front gate.","당신의 어리석은 행동은 이제 지긋지긋합니다! 더는 볼트 시티에 들어올 수 없습니다.
+ 경비가 정문까지 데려다줄 겁니다.",영어 원문 및 scripts_src/main/vclynett.ssl Reply 분기를 대조해 미번역 복구
+476,lynette_reply,"What? You destroyed the plant?! The contamination! You IDIOT. At least those ghouls are
+ gone... Get out of my sight.","What? You destroyed the plant?! The contamination! You IDIOT. At least those ghouls are
+ gone... Get out of my sight.","뭐라고요? 발전소를 파괴했다고요?! 오염은 어쩌고요! 이 멍청이! 적어도 구울들은 사라졌군요...
+ 내 눈앞에서 사라지십시오.",영어 원문 및 scripts_src/main/vclynett.ssl Reply 분기를 대조해 미번역 복구
+484,lynette_reply,"You did it! Excellent! You have performed a valuable service for Vault City. Please
+ accept this as a token of our appreciation. To think a band of RAIDERS was causing so much trouble...","You did it! Excellent! You have performed a valuable service for Vault City. Please
+ accept this as a token of our appreciation. To think a band of RAIDERS was causing so much trouble...","해냈군요! 훌륭합니다! 볼트 시티에 큰 공을 세우셨습니다. 감사의
+ 표시로 이걸 받아 주십시오. 한 무리의 약탈자 때문에 그렇게 큰 문제가 생겼다니...",영어 원문 및 scripts_src/main/vclynett.ssl Reply 분기를 대조해 미번역 복구
+490,lynette_reply,"What?! He did?! I suppose he granted you Citizenship, also! Fixing Gecko's plant won't
+ solve anything. Those... creatures! They cannot be trusted! What happens when their plant starts leaking again?!","What?! He did?! I suppose he granted you Citizenship, also! Fixing Gecko's plant won't
+ solve anything. Those... creatures! They cannot be trusted! What happens when their plant starts leaking again?!","뭐라고요?! 그가 그랬다고요?! 시민권까지 줬겠군요! 게코 발전소를 수리해 봤자 달라질
+ 건 없습니다. 그... 괴물들! 믿을 수 없어요! 발전소에서 또 오염 물질이 새기 시작하면 어쩔 겁니까?!",영어 원문 및 scripts_src/main/vclynett.ssl Reply 분기를 대조해 미번역 복구
+524,lynette_reply,"That is a very serious accusation. Since you are a Citizen, I must take you at your word...
+ but are you absolutely certain? If true, his Citizenship would be revoked, and he would be exiled.","That is a very serious accusation. Since you are a Citizen, I must take you at your word...
+ but are you absolutely certain? If true, his Citizenship would be revoked, and he would be exiled.","매우 심각한 고발이군요. 시민이시니 당신의 말을 믿어야겠지만...
+ 정말 확실합니까? 사실이라면 그는 시민권을 박탈당하고 추방될 겁니다.",영어 원문 및 scripts_src/main/vclynett.ssl Reply 분기를 대조해 미번역 복구
+529,lynette_reply,"I can't believe a Citizen of such stature would become addicted to drugs. Thank you for your
+ honesty, Citizen. I will take care of this immediately.","I can't believe a Citizen of such stature would become addicted to drugs. Thank you for your
+ honesty, Citizen. I will take care of this immediately.","그렇게 높은 지위의 시민이 약물에 중독됐다니 믿을 수 없군요. 솔직히 알려줘서
+ 고맙습니다, 시민. 이 일은 즉시 처리하겠습니다.",SSL 리네트 Reply 분기 및 NPC의 정부관·노예제·퀘스트 맥락에 따라 미번역 복구
+538,lynette_reply,"The law is the law. Exceptions make us no better than the Outsiders. Again, are you
+ absolutely certain of your accusations?","The law is the law. Exceptions make us no better than the Outsiders. Again, are you
+ absolutely certain of your accusations?","법은 법입니다. 예외를 인정한다면 외부인들과 다를 바가 없지요. 다시 묻겠습니다.
+ 당신의 고발이 정말 사실입니까?",SSL 리네트 Reply 분기 및 NPC의 정부관·노예제·퀘스트 맥락에 따라 미번역 복구
+545,lynette_reply,"If I hear of you making trouble for Dr. Troy, or any other Citizen, you will never walk
+ the streets of Vault City again. Understood?","If I hear of you making trouble for Dr. Troy, or any other Citizen, you will never walk
+ the streets of Vault City again. Understood?","트로이 박사나 다른 시민에게 또 문제를 일으켰다는 말을 듣게 되면 볼트 시티 거리를 다시는
+ 걸어 다닐 수 없게 될 겁니다. 알아들었습니까?",SSL 리네트 Reply 분기 및 NPC의 정부관·노예제·퀘스트 맥락에 따라 미번역 복구
+549,lynette_reply,"Of COURSE he only treats Citizens. He has no time to treat Outsiders... we have an Auto-Doc
+ in the courtyard for that.","Of COURSE he only treats Citizens. He has no time to treat Outsiders... we have an Auto-Doc
+ in the courtyard for that.","물론 시민만 치료하지요. 외부인까지 돌볼 시간은 없습니다... 그들을 위해 안뜰에 자동
+ 진료기를 설치해 뒀습니다.",SSL 리네트 Reply 분기 및 NPC의 정부관·노예제·퀘스트 맥락에 따라 미번역 복구
+566,lynette_reply,"He constantly seeks to convince the Citizens to turn Vault City into a...""democracy,""
+ as he calls it, with everyone having a say in laws and decision-making. *I* call it mob rule.","He constantly seeks to convince the Citizens to turn Vault City into a...""democracy,""
+ as he calls it, with everyone having a say in laws and decision-making. *I* call it mob rule.","그는 끊임없이 시민들을 설득해 볼트 시티를 이른바 '민주주의'로 바꾸려고 합니다. 모든
+ 사람이 법과 의사 결정에 발언권을 갖게 하자고요. 나는 그걸 폭도들의 지배라고 부릅니다.",SSL 리네트 Reply 분기 및 NPC의 정부관·노예제·퀘스트 맥락에 따라 미번역 복구
+573,lynette_reply,"The archives state that many old world nations had such a government. We know where THAT
+ got them. Can you imagine how long it would take to get anything done in such a society? It's inconceivable.","The archives state that many old world nations had such a government. We know where THAT
+ got them. Can you imagine how long it would take to get anything done in such a society? It's inconceivable.","기록에 따르면 옛 세계의 여러 나라가 그런 정부를 운영했다고 합니다. 그 나라들이 어떻게
+ 됐는지는 다 아시겠지요. 그런 사회에서 뭔가를 결정하려면 얼마나 오래 걸릴지 상상이나 가십니까? 말도 안 됩니다.",SSL 리네트 Reply 분기 및 NPC의 정부관·노예제·퀘스트 맥락에 따라 미번역 복구
+579,lynette_reply,"A government needs a strong, capable leader who can make decisions quickly and has the
+ power to enforce them. Government by committee is no kind of government at all.","A government needs a strong, capable leader who can make decisions quickly and has the
+ power to enforce them. Government by committee is no kind of government at all.","정부에는 신속하게 결정을 내리고 이를 집행할 권한이 있는 유능하고 강력한 지도자가
+ 필요합니다. 위원회에 의존하는 정부는 제대로 된 정부가 아닙니다.",SSL 리네트 Reply 분기 및 NPC의 정부관·노예제·퀘스트 맥락에 따라 미번역 복구
+584,lynette_reply,"Mostly by ranting in public and making a fool of himself. He plays on our sympathies with
+ tales of a plague in the NCR, as if WE could take care of the whole world.","Mostly by ranting in public and making a fool of himself. He plays on our sympathies with
+ tales of a plague in the NCR, as if WE could take care of the whole world.","주로 사람들 앞에서 고함치고 망신을 자초하는 식이지요. NCR에 전염병이 돈다는 이야기로 시민들의
+ 동정심을 자극합니다. 마치 우리가 온 세상을 돌볼 수 있기라도 한 것처럼요.",SSL 리네트 Reply 분기 및 NPC의 정부관·노예제·퀘스트 맥락에 따라 미번역 복구
+589,lynette_reply,"You, too? A Citizen is free to his own beliefs, but this... THIS! Perhaps you are incapable
+ of handling the responsibility of Citizenship!","You, too? A Citizen is free to his own beliefs, but this... THIS! Perhaps you are incapable
+ of handling the responsibility of Citizenship!","당신마저 그러는 겁니까? 시민은 각자의 신념을 가질 자유가 있지만, 이건... 이건! 당신에게
+ 시민의 책임을 감당할 능력이 없는 건지도 모르겠군요!",SSL 리네트 Reply 분기 및 NPC의 정부관·노예제·퀘스트 맥락에 따라 미번역 복구
+595,lynette_reply,"No. He is not a TRUE Citizen... not anymore. When he came to us two years ago, he seemed
+ everything we would want in a Citizen. But just a year later he... changed. He turned against us.","No. He is not a TRUE Citizen... not anymore. When he came to us two years ago, he seemed
+ everything we would want in a Citizen. But just a year later he... changed. He turned against us.","아닙니다. 그는 더는 진정한 시민이 아닙니다. 2년 전에 찾아왔을 때만 해도 이상적인 시민의
+ 모습을 갖춘 사람처럼 보였지요. 하지만 불과 1년 뒤에 그는... 변했습니다. 우리에게 등을 돌렸지요.",SSL 리네트 Reply 분기 및 NPC의 정부관·노예제·퀘스트 맥락에 따라 미번역 복구
+600,lynette_reply,"We have prospered in this world where so many others have failed, and you tell me we need
+ to change? Look at the outside world! Anarchy, depravity, sickness... Vault City is a paradise!","We have prospered in this world where so many others have failed, and you tell me we need
+ to change? Look at the outside world! Anarchy, depravity, sickness... Vault City is a paradise!","수많은 사람이 실패한 이 세상에서 우리는 번영을 이뤘는데, 우리더러 변해야
+ 한다고요? 바깥세상을 보십시오! 무정부 상태, 타락, 질병... 볼트 시티는 낙원입니다!",SSL 리네트 Reply 분기 및 NPC의 정부관·노예제·퀘스트 맥락에 따라 미번역 복구
+604,lynette_reply,"Vault City was built through the hard work and suffering of many Citizens. The outside
+ world should look to our example and follow it, not sit outside our walls and beg for handouts.","Vault City was built through the hard work and suffering of many Citizens. The outside
+ world should look to our example and follow it, not sit outside our walls and beg for handouts.","볼트 시티는 수많은 시민이 땀과 고통을 감수하며 건설했습니다. 외부 세계가
+ 해야 할 일은 우리 성벽 밖에 주저앉아 구걸하는 게 아니라 우리를 본받는 겁니다.",SSL 리네트 Reply 분기 및 NPC의 정부관·노예제·퀘스트 맥락에 따라 미번역 복구
+607,lynette_reply,"Why do we condone slavery? The system has been in place for many years, and it works
+ quite well. Both parties benefit from the institution.","Why do we condone slavery? The system has been in place for many years, and it works
+ quite well. Both parties benefit from the institution.","우리가 왜 노예제를 용인하느냐고요? 이 제도는 오랫동안 유지됐고 아주 잘
+ 작동하고 있습니다. 양쪽 모두 이득을 보니까요.",SSL 리네트 Reply 분기 및 NPC의 정부관·노예제·퀘스트 맥락에 따라 미번역 복구
+613,lynette_reply,"They are not slaves, they are our ""servants."" We have given them homes, food, clothing,
+ and a purpose. We have given them a life.","They are not slaves, they are our ""servants."" We have given them homes, food, clothing,
+ and a purpose. We have given them a life.","그들은 노예가 아닙니다. 우리의 '하인'이지요. 우리는 그들에게 집과 음식과 옷, 그리고 삶의
+ 목적을 줬습니다. 삶을 베풀어 준 겁니다.",SSL 리네트 Reply 분기 및 NPC의 정부관·노예제·퀘스트 맥락에 따라 미번역 복구
+637,lynette_reply,"Although it would serve Vault City's interests, I can't... as long as he breaks no laws,
+ Moore is permitted to say anything he wants.","Although it would serve Vault City's interests, I can't... as long as he breaks no laws,
+ Moore is permitted to say anything he wants.","그를 막는 게 볼트 시티의 이익에 부합하겠지만, 그럴 수는... 없습니다. 무어가 법을 어기지
+ 않는 한 원하는 말은 무엇이든 할 수 있습니다.",SSL 리네트 Reply 분기 및 NPC의 정부관·노예제·퀘스트 맥락에 따라 미번역 복구
+643,lynette_reply,"A spy for NCR? That... that... would explain a great many things. Thank you, Citizen. I
+ will deal with this immediately.","A spy for NCR? That... that... would explain a great many things. Thank you, Citizen. I
+ will deal with this immediately.","NCR의 첩자라고요? 그... 그렇다면 여러 가지 의문이 풀리는군요. 고맙습니다,
+ 시민. 즉시 조치하겠습니다.",SSL 리네트 Reply 분기 및 NPC의 정부관·노예제·퀘스트 맥락에 따라 미번역 복구
+647,lynette_reply,"They started several months ago. The laser turrets have been able to hold them off, but I
+ don't know how much longer we can stop them.","They started several months ago. The laser turrets have been able to hold them off, but I
+ don't know how much longer we can stop them.","몇 달 전부터 공격이 시작됐습니다. 레이저 포탑이 막아 내고는 있지만, 앞으로
+ 얼마나 더 버틸 수 있을지 모르겠습니다.",SSL 리네트 Reply 분기 및 NPC의 정부관·노예제·퀘스트 맥락에 따라 미번역 복구
+652,lynette_reply,"Outsider trash. For over a century, Outsiders have tried to loot our city... and have
+ always failed. Eventually, we will defeat this group.","Outsider trash. For over a century, Outsiders have tried to loot our city... and have
+ always failed. Eventually, we will defeat this group.","외부인 쓰레기들이지요. 지난 백 년 넘게 외부인들은 우리 도시를 약탈하려 했지만...
+ 언제나 실패했습니다. 결국 이번 무리도 물리칠 겁니다.",SSL 리네트 Reply 분기 및 NPC의 정부관·노예제·퀘스트 맥락에 따라 미번역 복구
+657,lynette_reply,"Finding their base has proven difficult. In addition, they also have a great deal of
+ firepower. Nevertheless, we have repelled every attack... with minimal casualties.","Finding their base has proven difficult. In addition, they also have a great deal of
+ firepower. Nevertheless, we have repelled every attack... with minimal casualties.","그들의 기지를 찾기가 어려웠습니다. 게다가 상당한 화력까지 갖췄습니다.
+ 그래도 우리는 모든 공격을 격퇴했습니다... 피해는 최소한으로 억제했지요.",SSL 리네트 Reply 분기 및 NPC의 정부관·노예제·퀘스트 맥락에 따라 미번역 복구
+666,lynette_reply,"You have? Excellent! But the city guards are already stretched thin... What about you?
+ Could you end the attacks? I'll pay you.","You have? Excellent! But the city guards are already stretched thin... What about you?
+ Could you end the attacks? I'll pay you.","그들의 기지를 찾았다고요? 훌륭합니다! 하지만 도시 경비대도 이미 인력이 부족합니다... 당신은 어떻습니까?
+ 공격을 끝내 줄 수 있겠습니까? 보수를 드리겠습니다.",SSL 리네트 Reply 분기 및 NPC의 정부관·노예제·퀘스트 맥락에 따라 미번역 복구
+683,lynette_script_reply,"I would not be surprised. Bishop visited Vault City not long ago, and suggested an
+ alliance. I refused, of course. We don't associate with criminals.","I would not be surprised. Bishop visited Vault City not long ago, and suggested an
+ alliance. I refused, of course. We don't associate with criminals.","놀랍지도 않군요. 얼마 전 비숍이 볼트 시티에 와서 동맹을 제안한 적이
+ 있습니다. 물론 거절했지요. 우리는 범죄자들과 어울리지 않습니다.",SSL 리네트 Reply 분기·NCR/레이더·보수·대장 승진 문맥 확인 후 한국어 번역
+685,lynette_script_reply,"I would sooner ask NCR for help. If you come across any hard evidence of Bishop's
+ involvement, please bring it to me at once.","I would sooner ask NCR for help. If you come across any hard evidence of Bishop's
+ involvement, please bring it to me at once.","차라리 NCR에 도움을 청하겠습니다. 비숍이 관련됐다는 확실한 증거를
+ 찾으면 즉시 내게 가져오십시오.",SSL 리네트 Reply 분기·NCR/레이더·보수·대장 승진 문맥 확인 후 한국어 번역
+689,lynette_script_reply,"I'm not surprised. Bishop visited not long ago and suggested an alliance. I refused, of
+ course. We don't associate with criminals.","I'm not surprised. Bishop visited not long ago and suggested an alliance. I refused, of
+ course. We don't associate with criminals.","놀랍지 않군요. 비숍이 얼마 전 이곳에 와서 동맹을 제안했지요. 물론 거절했습니다.
+ 우리는 범죄자들과 어울리지 않습니다.",SSL 리네트 Reply 분기·NCR/레이더·보수·대장 승진 문맥 확인 후 한국어 번역
+692,lynette_script_reply,"Possibly... but it would never work. I would sooner ask NCR for help. You have done Vault
+ City a great service. Please take this as a token of our appreciation.","Possibly... but it would never work. I would sooner ask NCR for help. You have done Vault
+ City a great service. Please take this as a token of our appreciation.","그럴지도 모르지만... 그 방법은 통하지 않을 겁니다. 차라리 NCR에 도움을 청하겠어요.
+ 볼트 시티에 큰 공을 세우셨습니다. 감사의 표시로 이것을 받아 주십시오.",SSL 리네트 Reply 분기·NCR/레이더·보수·대장 승진 문맥 확인 후 한국어 번역
+696,lynette_script_reply,"Of course. They sent mercenaries to murder my people because I wouldn't join their
+ government? I... I can barely believe it.","Of course. They sent mercenaries to murder my people because I wouldn't join their
+ government? I... I can barely believe it.","물론이지요. 내가 그들 정부에 합류하길 거절했다는 이유로 내 사람들을 죽이려고 용병을
+ 보냈다고요? 이... 이건 정말 믿기 어렵군요.",SSL 리네트 Reply 분기·NCR/레이더·보수·대장 승진 문맥 확인 후 한국어 번역
+711,lynette_script_reply,"I need you to go immediately to New California Republic and find Counselor Westin,
+ Roger Westin. Give him the holodisk. That should insure that no more ""raiders"" get hired.","I need you to go immediately to New California Republic and find Counselor Westin,
+ Roger Westin. Give him the holodisk. That should insure that no more ""raiders"" get hired.","즉시 뉴 캘리포니아 공화국으로 가서 로저 웨스틴 의원을 찾으십시오. 그에게
+ 홀로디스크를 전하세요. 그러면 더는 '약탈자'들이 고용되는 일이 없을 겁니다.",SSL 리네트 Reply 분기·NCR/레이더·보수·대장 승진 문맥 확인 후 한국어 번역
+716,lynette_script_reply,"Roger Westin was probably the only honest man in the New Republic and a sympathetic
+ to our cause... his death is a terrible loss.","Roger Westin was probably the only honest man in the New Republic and a sympathetic
+ to our cause... his death is a terrible loss.","로저 웨스틴은 아마 뉴 캘리포니아 공화국에서 유일하게 정직하면서 우리 입장을 이해해 주던 사람이었을
+ 겁니다... 그의 죽음은 참으로 큰 손실입니다.",SSL 리네트 Reply 분기·NCR/레이더·보수·대장 승진 문맥 확인 후 한국어 번역
+734,lynette_script_reply,"Nevertheless, Vault City will prevail. You have performed a valuable service...
+ please accept this token of our appreciation.","Nevertheless, Vault City will prevail. You have performed a valuable service...
+ please accept this token of our appreciation.","그렇더라도 볼트 시티는 이겨 낼 겁니다. 당신은 큰 공을 세웠습니다...
+ 감사의 표시로 이것을 받아 주십시오.",SSL 리네트 Reply 분기·NCR/레이더·보수·대장 승진 문맥 확인 후 한국어 번역
+753,lynette_script_reply,"I can see that our agreement meant nothing to you. Very well then; your Vault City privileges
+ are revoked. My guards will escort you to the front gate.","I can see that our agreement meant nothing to you. Very well then; your Vault City privileges
+ are revoked. My guards will escort you to the front gate.","우리의 합의가 당신에게는 아무 의미도 없었던 모양이군요. 좋습니다. 볼트 시티에서 누리던
+ 당신의 특권은 박탈합니다. 경비가 정문까지 데려다줄 겁니다.",SSL 리네트 Reply 분기·NCR/레이더·보수·대장 승진 문맥 확인 후 한국어 번역
+764,lynette_script_reply,"Now... regarding payment: Report to Randal, the Chief Amenities Officer. Tell him I sent
+ you, and he will present you with your reward. Thank you again. ","Now... regarding payment: Report to Randal, the Chief Amenities Officer. Tell him I sent
+ you, and he will present you with your reward. Thank you again. ","자, 이제 보수에 관해서는 편의시설 책임자 랜달에게 가십시오. 내가 보냈다고
+ 하면 보상을 지급할 겁니다. 다시 한번 감사드립니다.",SSL 리네트 Reply 분기·NCR/레이더·보수·대장 승진 문맥 확인 후 한국어 번역
+768,lynette_script_reply,"Your service has been exemplary. So much so that it is my honor to name you Captain of the
+ Guard. Congratulations, Captain. You deserve it.","Your service has been exemplary. So much so that it is my honor to name you Captain of the
+ Guard. Congratulations, Captain. You deserve it.","당신의 공적은 모범적입니다. 그 공로를 인정하여 경비대장으로 임명하게 된 것을 영광으로 생각합니다.
+ 축하합니다, 대장. 그럴 자격이 충분합니다.",SSL 리네트 Reply 분기·NCR/레이더·보수·대장 승진 문맥 확인 후 한국어 번역
+771,lynette_script_reply,"In addition, report to Randal, the Chief Amenities Officer. Tell him I sent you, and
+ receive your reward. We are in your debt... Captain.","In addition, report to Randal, the Chief Amenities Officer. Tell him I sent you, and
+ receive your reward. We are in your debt... Captain.","또한 편의시설 책임자 랜달에게 가십시오. 내가 보냈다고 전하고 보상을 받으세요.
+ 우리는 당신에게 큰 빚을 졌습니다... 대장.",SSL 리네트 Reply 분기·NCR/레이더·보수·대장 승진 문맥 확인 후 한국어 번역
+775,lynette_script_reply,"You lost it?! That correspondence was extremely important! Very well... here's your
+ payment for delivery of the disk. Now, if you'll excuse me... ","You lost it?! That correspondence was extremely important! Very well... here's your
+ payment for delivery of the disk. Now, if you'll excuse me... ","그걸 잃어버렸다고요?! 그 서신은 대단히 중요했습니다! 좋습니다... 홀로디스크를
+ 전달한 보수는 여기 있습니다. 그럼 이제 실례하겠습니다...",SSL 리네트 Reply 분기·NCR/레이더·보수·대장 승진 문맥 확인 후 한국어 번역
+779,lynette_script_reply,"He didn't give you anything? Strange... in any event, here's your payment for delivering
+ the disk. Now, if you'll excuse me...","He didn't give you anything? Strange... in any event, here's your payment for delivering
+ the disk. Now, if you'll excuse me...","그가 아무것도 주지 않았다고요? 이상하군요... 아무튼 홀로디스크를 전달한 보수는 여기
+ 있습니다. 그럼 이제 실례하겠습니다...",SSL 리네트 Reply 분기·NCR/레이더·보수·대장 승진 문맥 확인 후 한국어 번역
+787,lynette_script_reply,"A spy for NCR? That... that... would explain a great many things. Thank you for exposing
+ this, Citizen. THAT problem I can take care of immediately.","A spy for NCR? That... that... would explain a great many things. Thank you for exposing
+ this, Citizen. THAT problem I can take care of immediately.","NCR의 첩자라고요? 그... 그렇다면 많은 일들이 설명되는군요. 밝혀내 주셔서
+ 감사합니다, 시민. 그 문제라면 즉시 처리할 수 있습니다.",SSL 리네트 Reply 분기·NCR/레이더·보수·대장 승진 문맥 확인 후 한국어 번역

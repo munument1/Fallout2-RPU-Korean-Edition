@@ -258,38 +258,38 @@
 {326}{}{가서 그들을 부르시오. 그들은 당신의 목숨을 제 때 구하러 오지 못할 것이오.}
 {327}{}{좋소, 떠나겠소.}
 {328}{}{알겠습니다, 제1시민. 좋은 하루 되십시오.}
-{329}{lyn042}{A tribal legend? You'll need something more substantial than some... tribal MYTH if you
- want anyone to believe your claim.}
+{329}{lyn042}{부족의 전설이라고요? 남들이 당신 말을 믿게 하려면 그따위... 부족의 신화 말고 좀
+ 더 확실한 증거가 필요할 겁니다.}
 {330}{}{그러나 나는 '볼트 거주자'의 신성한 유물을 갖고 있습니다... 볼트 수트 그리고 이 신성한 물병이지요.}
 {331}{}{볼트 점프수트와 이 수통을 가지고 있습니다. 그것들은 내 선조의 물건들이었습니다.}
 {332}{}{당신이 내 말을 안 믿을거면 왜 내가 내 유산을 증명해야 하오?!}
 {333}{}{좋소. 떠나겠소.}
 {334}{}{알겠습니다. 그럼 더 나눌 이야기는 없군요. 좋은 하루 되십시오, 제1시민.}
-{335}{lyn043}{We could check the Vault computers. They would probably have the information you seek.
- But only Citizens are allowed to access the archives.}
+{335}{lyn043}{볼트 컴퓨터를 확인해 볼 수는 있겠군요. 아마 당신이 찾는 정보가 있을 겁니다.
+ 하지만 기록 보관소는 시민만 출입할 수 있습니다.}
 {336}{}{그러나 나는 시민입니다.}
 {337}{}{시민이 될 수 있는 방법이 없습니까?}
 {338}{}{운이 없나 보군요. 그럼, 좋은 하루 되십시오.}
-{339}{lyn044}{Rather than taking the test, you could prove your commitment to the Vaults in a more...
-substantial way. As an Outsider, you are in a unique position to resolve a difficult... situation for us.}
+{339}{lyn044}{시민권 시험을 치르는 대신, 볼트에 대한 헌신을 좀 더... 실질적인 방법으로
+증명할 수도 있습니다. 외부인인 당신은 우리가 겪는 까다로운... 문제를 해결하기에 적합하지요.}
 {340}{}{어떤 상황입니까?}
 {341}{}{물론이죠. 볼트가 무엇을 원하던 그것을 가져오는 것이 내 의무입니다.}
 {342}{}{모르겠습니다...시민권 테스트의 일반적인 절차는 없습니까?}
 {343}{}{내가 그 일을 할 수 있을 거라고 생각이 안됩니다... 안녕히.}
 {344}{}{사양하겠습니다, 이만 가봐야겠군요. 좋은 하루 되십시오, 제1시민.}
-{345}{lyn045}{Murderers, both of them. Boyarsky was exiled ten years ago, and Richard Moreau was exiled
- shortly after we left the Vault. Citizenship is a sacred trust -- crime is not tolerated within our walls.}
+{345}{lyn045}{둘 다 살인자입니다. 보야르스키는 10년 전에 추방됐고, 리처드 모로는 우리가 볼트에서
+ 나온 직후 추방됐습니다. 시민권은 신성한 신뢰의 증표입니다. 우리 성벽 안에서는 범죄를 용납하지 않습니다.}
 {346}{}{만약 이게 내가 찾는 볼트가 아니라면, 나는 내 선조가 있었던 볼트를 찾아야 합니다.}
 {347}{}{어떻게 시민이 될 수 있습니까?}
 {348}{}{충분히 들었습니다. 이만 가봐야 겠습니다.}
 {349}{}{알겠습니다. 흠, 시간을 내줘서 감사합니다, 제1시민. 좋은 하루 되십시오.}
-{350}{lyn046}{What are you talking about? You must be mistaken. Whatever... "Vault Dweller" YOU'RE
- speaking of must be from some other Vault.}
+{350}{lyn046}{무슨 말씀입니까? 뭔가 착각하신 것 같군요. 당신이 말하는 그... '볼트
+ 거주자'가 누구든 다른 볼트 출신일 겁니다.}
 {351}{}{그것이 사실이라면 나는 다른 볼트를 찾아야 하겠군요.}
 {352}{}{거짓말! 여기가 내 선조가 있었던 볼트야!}
 {353}{}{아마 그렇겠지요. 이야기를 나눠줘서 감사합니다. 그럼 안녕히.}
-{354}{lyn047}{There's a town... if you could call it that... to the northeast of our city. It is filled
- with... creatures that are polluting the groundwater with dangerous radiation.}
+{354}{lyn047}{우리 도시 북동쪽에 마을이 하나 있습니다... 마을이라고 부를 수 있다면 말이지요.
+ 그곳에는... 위험한 방사능으로 지하수를 오염시키는 괴물 같은 것들이 득실거립니다.}
 {355}{}{어떻게 그들이 지하수를 오염시킵니까?}
 {356}{}{내가 어떻게 하기를 원합니까?}
 {357}{}{다른 생각이 들었는데, 이 일은 내가 흥미가 나지 않는 일이오. 그럼 안녕히.}
@@ -297,25 +297,25 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {359}{}{쉬워 보이는군요. 상황이... "정리"되면 돌아오겠습니다.}
 {360}{}{이 공장이 정확히 얼마나 방사능을 유출하고 있습니까?}
 {361}{}{생각해보고 다시 찾아 오도록 하겠습니다.}
-{362}{lyn049}{Those... things... are operating a damaged atomic power plant. You see, THEY are
- immune to radiation... they don't care that they are slowly killing us with their poisons.}
+{362}{lyn049}{그... 것들은... 고장 난 원자력 발전소를 가동하고 있습니다. 그들은 방사능에
+ 면역이니까요... 자기들이 퍼뜨리는 오염 물질로 우리를 서서히 죽이고 있어도 아랑곳하지 않습니다.}
 {363}{}{이 문제를 처리하도록 하죠. 상황이... "정리"되면 돌아오겠습니다.}
 {364}{}{그들이 세상에 도움을 주고 있는 것 같군. 당신의 더러운 일을 맡길 다른 "이방인"을 찾아보시오.}
 {365}{}{생각해보고 다시 찾아 오도록 하겠습니다.}
-{366}{lyn050}{Very well, let me see... These... these are authentic! Unbelievable... you ARE a
- survivor from another vault! Welcome to our City... you must have suffered much in the outside world.}
+{366}{lyn050}{좋습니다, 어디 봅시다... 이건... 진품이군요! 믿을 수가 없군요... 정말
+ 다른 볼트의 생존자였군요! 우리 도시에 오신 걸 환영합니다... 외부 세계에서 고생이 많으셨겠군요.}
 {367}{}{나는 우리 사람들이 있었던 볼트를 찾아야 합니다.}
 {368}{}{나는 에덴동산 창조킷이 필요합니다. 갖고 있습니까?}
 {369}{}{오, 그래, 지금 내가 당신의 도시에 환영받는 거요? 잊어버리시오... 나는 여기서 나가겠소.}
 {370}{}{당신은 아무것도 모르오... 그러나 나중에 시험의 사원에서 대해 말해주지. 그럼 안녕히.}
-{371}{lyn051}{I'm giving you an opportunity few Outsiders ever receive. You may take the test, if you
- wish. But resolving this situation for us may prove more rewarding. Do you understand me?}
+{371}{lyn051}{외부인으로서는 좀처럼 얻지 못할 기회를 드리는 겁니다. 원한다면 시험을 치를 수
+ 있습니다. 하지만 이 문제를 해결해 주신다면 더 큰 보상을 받을 수도 있지요. 아시겠습니까?}
 {372}{}{잘 알겠소, 어떤 상황입니까?}
 {373}{}{알겠습니다. 볼트가 무엇을 원하던 그것을 가져오는 것이 내 의무입니다.}
 {374}{}{내가 그 일을 할 사람이라고는 생각지 않습니다... 그럼 안녕히.}
 {375}{}{그만 가봐야 겠습니다. 좋은 하루 되길 바랍니다, 제1시민.}
-{376}{lyn052}{Oh... that's right. The Proconsul mentioned we had gained a new Citizen. Welcome,
- Citizen. As for the archives, yes... they are located inside our Vault. Peruse them at your leisure.}
+{376}{lyn052}{아... 맞습니다. 집정관이 새 시민이 생겼다고 했지요. 환영합니다,
+ 시민. 기록 보관소 말씀이군요... 우리 볼트 안에 있습니다. 자유롭게 열람하십시오.}
 {377}{}{기록 보관소들을 검사하러 가기 전에, 다른 질문들이 있습니다...}
 {378}{}{GECK도 가지게 되었습니까?}
 {379}{}{좋군요! 고맙습니다.}
@@ -372,16 +372,16 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {430}{lyn059}{나랑 장난치지 말아요, "시민", 당신을 두 번 다시 볼트 시티의 거리를 걷지 못하게 할 수도 있어요. 자, 그럼 나가세요.}
 {431}{}{알겠습니다... 그럼 나가 보겠습니다. 안녕히.}
 {432}{}{좋은 날 되십시오, 제1시민.}
-{433}{lyn060}{Do you take me for a FOOL? If anyone would know these were fakes, it would be me! Who
- gave you these papers?! If you tell me, I will allow you to keep your Day Pass.}
+{433}{lyn060}{내가 바보로 보입니까? 이 문서들이 가짜라는 걸 누구보다 잘 아는 사람이 바로 나입니다!
+ 이 서류는 누가 줬습니까?! 말해 준다면 일일 출입증은 그대로 갖게 해드리겠습니다.}
 {434}{}{정문의 스키브란 시민이었습니다.}
 {435}{}{나는, 어, 기억이 안납니다.}
 {436}{}{날 먼저 잡아야 할 것이오.}
 {437}{lyn061}{흐음... 잘 알겠어요. 그러나, 진짜로 시민권 서류를 얻기 전까지는 내 앞에 나타나지 말아요.  그럼 좋은 날 되세요.}
 {438}{}{안녕히.}
 {439}{}{좋은 날 되십시오, 제1시민.}
-{440}{lyn062}{Oh, really? That confirms my suspicions. Your Vault City access is now revoked. Hand
- over your Day Pass and go with my guards to the front gate.}
+{440}{lyn062}{오, 그랬습니까? 그렇다면 내 의심이 맞았군요. 당신의 볼트 시티 출입 허가를 취소하겠습니다.
+ 일일 출입증을 내놓고 경비를 따라 정문으로 가십시오.}
 {441}{}{뭐? 당신이 내 주간 통행증을 유지하게 해준다고 했잖소!}
 {442}{}{나는 아무데도 안갈거요. 이 주간 통행증을 원하거든, 직접 내 손에서 뺏어봐.}
 {443}{}{알겠소, 가지. 나는 문제를 일으키길 원하지 않소.}
@@ -404,25 +404,25 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {460}{}{내가 알기로는, 볼트 시티에 그 발전소를 고칠 부품이 있다고 하던데요.}
 {461}{}{알겠습니다. 나중에 다시 오겠습니다.}
 {462}{}{알겠습니다, 좋은 하루 되십시오, 제1시민.}
-{463}{lyn068}{What if we do? That is only a temporary solution. Please FIX the problem, NOT their power
- plant. Am I making myself clear?}
+{463}{lyn068}{우리가 그렇게 하면 어쩌겠습니까? 임시방편에 불과합니다. 그들의 발전소가 아니라 오염 문제를 해결하란
+ 말입니다. 내 말 알아들었습니까?}
 {464}{}{제1시민님, 무례를 범하려는 건 아닙니다만, 구울들을 죽이거나 원자로를 폐쇄하지 않고도 문제를 해결할 방법이 있습니다. 자, 그 부품을 주실 수 있겠습니까...?}
 {465}{}{당신은 내게 발전소를 고치는 것을 원했지, 게코를 대량학살하라고 요구한 것은 아니었소.}
 {466}{}{깨끗하게. 나중에 다시 오겠습니다.}
 {467}{}{알겠습니다, 좋은 하루 되십시오, 제1시민.}
-{468}{lyn069a}{What is this... creature... you have with you?! Such... things are not permitted inside
- Vault City! Guards! Escort these intruders to the front gate at once!}
-{469}{lyn069b}{Oh, did I? I seem to recall you claiming that you were a Citizen. You are no longer
- permitted inside Vault City. My guards will escort you to the front gate.}
-{470}{lyn069c}{I've had enough of your foolishness! You are no longer permitted inside Vault City. My
- guards will escort you to the front gate.}
+{468}{lyn069a}{당신과 함께 온 저... 생물은... 대체 뭡니까?! 그런... 것들은 볼트 시티 안에
+ 들어올 수 없습니다! 경비! 이 침입자들을 당장 정문으로 데려가십시오!}
+{469}{lyn069b}{아, 그랬던가요? 당신이 시민이라고 주장했던 걸로 기억합니다만. 이제 볼트
+ 시티에 들어올 수 없습니다. 경비가 정문까지 데려다줄 겁니다.}
+{470}{lyn069c}{당신의 어리석은 행동은 이제 지긋지긋합니다! 더는 볼트 시티에 들어올 수 없습니다.
+ 경비가 정문까지 데려다줄 겁니다.}
 {471}{}{주거 침침하안누운!}
 {472}{}{우-후}
 {473}{}{내 친구를 좋아하지 않나보군, 허? 너무 안됐소. 왜냐하면 그는 당신을 좋아하니까 말이오... 저녁식사로.}
 {474}{}{당신의 경비들은 당신의 목숨을 제 때 구하러 오지 못할 것이오... "제1시민"}
 {475}{}{가드는 필요없소 -- 나는 평화롭게 떠나겠소.}
-{476}{lyn070}{What? You destroyed the plant?! The contamination! You IDIOT. At least those ghouls are
- gone... Get out of my sight.}
+{476}{lyn070}{뭐라고요? 발전소를 파괴했다고요?! 오염은 어쩌고요! 이 멍청이! 적어도 구울들은 사라졌군요...
+ 내 눈앞에서 사라지십시오.}
 {477}{}{와! 당신이 약속한 시민권은 어떡하고?}
 {478}{}{이봐요, 그만큼의 파괴는 쉬운 일이 아니었소! 나는 좀 더 보상을 기대하는데...}
 {479}{}{알겠소, 알겠소. 나가오.}
@@ -430,15 +430,15 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {481}{lyn071}{나랑 장난치려 하지 말아요, 당신이 두 번 다시 볼트 시티의 거리를 걷지 못하게 할수도 있어요. }
 {482}{}{조심하시오, "제1시민." 그럼.}
 {483}{}{좋은 하루 시오, 제1시민.}
-{484}{lyn072a}{You did it! Excellent! You have performed a valuable service for Vault City. Please
- accept this as a token of our appreciation. To think a band of RAIDERS was causing so much trouble...}
+{484}{lyn072a}{해냈군요! 훌륭합니다! 볼트 시티에 큰 공을 세우셨습니다. 감사의
+ 표시로 이걸 받아 주십시오. 한 무리의 약탈자 때문에 그렇게 큰 문제가 생겼다니...}
 {485}{lyn072b}{훌륭해요. 그들이 받아야 할 대가였지요. 레이더의 무리들이 그렇게 많은 문제를 일으켰던 것을 생각하면...}
 {486}{}{글쎄요, 그들은 사실 떠도는 레이더들이 아니었어요... 알고보니 용병이었습니다.}
 {487}{lyn073}{그래서 발전소를 중단시켰나요?}
 {488}{}{아니요, 나는 그것을 수리했소. 의원 맥클루어가 내가 필요한 부품을 주었고 그것으로 발전소를 정상적으로 가동하기에는 충분했소.}
 {489}{}{모두 처리되었습니다.}
-{490}{lyn074}{What?! He did?! I suppose he granted you Citizenship, also! Fixing Gecko's plant won't
- solve anything. Those... creatures! They cannot be trusted! What happens when their plant starts leaking again?!}
+{490}{lyn074}{뭐라고요?! 그가 그랬다고요?! 시민권까지 줬겠군요! 게코 발전소를 수리해 봤자 달라질
+ 건 없습니다. 그... 괴물들! 믿을 수 없어요! 발전소에서 또 오염 물질이 새기 시작하면 어쩔 겁니까?!}
 {491}{}{잘 모르겠지만... 그들이 그것을 고치도록 도와주면?}
 {492}{}{이봐요, 지하수는 더 이상 오염되지 않소. 그리고 아무도 다치지 않을 것입니다. 문제는 해결됐어요.}
 {493}{}{당신이 진정될 때 다시 오겠소.}
@@ -472,14 +472,14 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {521}{}{당신의 경비들은 당신의 목숨을 제 때 구하러 오지 못할 것이오... "제1시민"}
 {522}{}{경비는 필요없소 -- 나는 평화롭게 떠나겠소.}
 {523}{}{그러나 그것은 사실입니다! 나를 믿어주세요! 나는 증--!}
-{524}{lyn080}{That is a very serious accusation. Since you are a Citizen, I must take you at your word...
- but are you absolutely certain? If true, his Citizenship would be revoked, and he would be exiled.}
+{524}{lyn080}{매우 심각한 고발이군요. 시민이시니 당신의 말을 믿어야겠지만...
+ 정말 확실합니까? 사실이라면 그는 시민권을 박탈당하고 추방될 겁니다.}
 {525}{}{믿기 힘든 것은 알지만, 그는 볼트 시티로 제트를 밀수해오라고 부탁했습니다.}
 {526}{}{조금 가혹하지 않습니까? 그냥 그를 갱생시키고 의사로 있게 할 수는 없나요?}
 {527}{}{오, 어... 잘못 말했습니다. 내 말은 트로이 박사가 불법적인 일이 아니라 법률가 보조의 활동에 연관되어 있다는 뜻이었습니다.}
 {528}{}{흐음. 내가 뭔가 찾아낼 수 있나 알아보겠습니다.}
-{529}{lyn081}{I can't believe a Citizen of such stature would become addicted to drugs. Thank you for your
- honesty, Citizen. I will take care of this immediately.}
+{529}{lyn081}{그렇게 높은 지위의 시민이 약물에 중독됐다니 믿을 수 없군요. 솔직히 알려줘서
+ 고맙습니다, 시민. 이 일은 즉시 처리하겠습니다.}
 {530}{}{다른 질문들이 있습니다...}
 {531}{}{좋습니다. 전반적인 상황이 걱정되었었습니다. 그럼 안녕히.}
 {532}{}{고맙습니다, 제1시민. 저는 오직 정의가 실현되기를 바랬을 뿐입니다.}
@@ -488,21 +488,21 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {535}{}{다른 질문들이 있습니다...}
 {536}{}{물론입니다. 그럼 안녕히.}
 {537}{}{그러겠습니다. 고맙습니다, 제1시민.}
-{538}{lyn083}{The law is the law. Exceptions make us no better than the Outsiders. Again, are you
- absolutely certain of your accusations?}
+{538}{lyn083}{법은 법입니다. 예외를 인정한다면 외부인들과 다를 바가 없지요. 다시 묻겠습니다.
+ 당신의 고발이 정말 사실입니까?}
 {539}{}{그래서 당신이 게코 상황을 해결하고자 나를 시민권 서류로 매수한 것은 법적인 것이오?}
 {540}{}{그렇소. 그가 내게 볼트 시티로 제트를 밀수하라고 요청했었습니다.}
 {541}{}{오, 어... 잘못 말했습니다. 내 말은 트로이 박사가 불법적인 일이 아니라 법률가 보조의 활동에 연관되어 있다는 뜻이었습니다.}
 {542}{}{흐음, 뭔가 발견할 게 있나 알아보도록 하겠습니다.}
 {543}{lyn084a}{말하는 내용을 조심하는게 좋을거에요.}
 {544}{lyn084b}{말하는 내용을 조심하는게 좋을거에요, 이방인.}
-{545}{lyn084c}{If I hear of you making trouble for Dr. Troy, or any other Citizen, you will never walk
- the streets of Vault City again. Understood?}
+{545}{lyn084c}{트로이 박사나 다른 시민에게 또 문제를 일으켰다는 말을 듣게 되면 볼트 시티 거리를 다시는
+ 걸어 다닐 수 없게 될 겁니다. 알아들었습니까?}
 {546}{}{어... 물 론. 미안합니다. 다른 질문이 있습니다...}
 {547}{}{잘 알겠습니다. 그만 가보겠습니다.}
 {548}{}{사과드립니다, 제1시민. 좋은 하루 되십시오.}
-{549}{lyn085}{Of COURSE he only treats Citizens. He has no time to treat Outsiders... we have an Auto-Doc
- in the courtyard for that.}
+{549}{lyn085}{물론 시민만 치료하지요. 외부인까지 돌볼 시간은 없습니다... 그들을 위해 안뜰에 자동
+ 진료기를 설치해 뒀습니다.}
 {550}{}{글쎄, 당신은 그 의사가 시티에 어떤 불법적인 약물을 밀수해달라고 내게 부탁했다는 것을 듣고 싶어하겠지요?}
 {551}{}{오, 나는 다른 질문이 있습니다...}
 {552}{}{그래요, 돈을 지불할 수 있는 사람들만 쓸 수 있고... 그들이 오토-닥터를 온전히 쓸 수 있다고 생각한 것이겠죠.}
@@ -519,64 +519,64 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {563}{}{동의합니다. 내가 그를... 처리하기 원하십니까?}
 {564}{}{그러면 그의 시민권을 철회해야합니다.}
 {565}{}{알겠습니다. 그에게 접근하지 않도록 하지요. 좋은 하루 되십시오.}
-{566}{lyn088}{He constantly seeks to convince the Citizens to turn Vault City into a..."democracy,"
- as he calls it, with everyone having a say in laws and decision-making. *I* call it mob rule.}
+{566}{lyn088}{그는 끊임없이 시민들을 설득해 볼트 시티를 이른바 '민주주의'로 바꾸려고 합니다. 모든
+ 사람이 법과 의사 결정에 발언권을 갖게 하자고요. 나는 그걸 폭도들의 지배라고 부릅니다.}
 {567}{}{"민주주의?"}
 {568}{}{어떻게 그가 시민들을 설득하려고 시도할 수 있습니까?}
 {569}{}{그는 문제같군요. 내가 그를... 처리하는게 어떻겠습니까?}
 {570}{}{그냥 그를 추방하면 되지 않습니까?}
 {571}{}{다른 질문들이 있습니다...}
 {572}{}{오, 글쎄요, 정보 감사합니다. 좋은 하루 되십시오.}
-{573}{lyn089}{The archives state that many old world nations had such a government. We know where THAT
- got them. Can you imagine how long it would take to get anything done in such a society? It's inconceivable.}
+{573}{lyn089}{기록에 따르면 옛 세계의 여러 나라가 그런 정부를 운영했다고 합니다. 그 나라들이 어떻게
+ 됐는지는 다 아시겠지요. 그런 사회에서 뭔가를 결정하려면 얼마나 오래 걸릴지 상상이나 가십니까? 말도 안 됩니다.}
 {574}{}{상상할 수가 없다니요? 왜 그렇습니까?}
 {575}{}{어떻게 무어가 시민들을 설득하려고 시도할 수 있습니까?}
 {576}{}{다른 질문들이 있습니다...}
 {577}{}{그렇겠죠. 이만 가보겠습니다.}
 {578}{}{시간을 내줘서 고맙습니다, 제1시민. 좋은 하루 되십시오.}
-{579}{lyn090}{A government needs a strong, capable leader who can make decisions quickly and has the
- power to enforce them. Government by committee is no kind of government at all.}
+{579}{lyn090}{정부에는 신속하게 결정을 내리고 이를 집행할 권한이 있는 유능하고 강력한 지도자가
+ 필요합니다. 위원회에 의존하는 정부는 제대로 된 정부가 아닙니다.}
 {580}{}{어떻게 무어가 볼트 시티는 민주주의가 되어야 한다고 시민들을 설득하려 할 수 있습니까?}
 {581}{}{다른 질문들이 있습니다...}
 {582}{}{그렇겠죠. 이만 가보겠습니다.}
 {583}{}{시간을 내줘서 고맙습니다, 제1시민. 좋은 하루 되십시오.}
-{584}{lyn091}{Mostly by ranting in public and making a fool of himself. He plays on our sympathies with
- tales of a plague in the NCR, as if WE could take care of the whole world.}
+{584}{lyn091}{주로 사람들 앞에서 고함치고 망신을 자초하는 식이지요. NCR에 전염병이 돈다는 이야기로 시민들의
+ 동정심을 자극합니다. 마치 우리가 온 세상을 돌볼 수 있기라도 한 것처럼요.}
 {585}{}{진짜 문제 같습니다. 내가 그를... 처리하길 원합니까?}
 {586}{}{당신은 그가 옳은 것을 알고 있소: 아마도 알 것이오. 당신의 의료 기술은 꽤 대단한 것이오.}
 {587}{}{그냥 그를 추방하면 되지 않습니까?}
 {588}{}{오, 글쎄요, 그냥 그에게 호기심이 있었을 뿐입니다. 좋은 하루 되십시오.}
-{589}{lyn092}{You, too? A Citizen is free to his own beliefs, but this... THIS! Perhaps you are incapable
- of handling the responsibility of Citizenship!}
+{589}{lyn092}{당신마저 그러는 겁니까? 시민은 각자의 신념을 가질 자유가 있지만, 이건... 이건! 당신에게
+ 시민의 책임을 감당할 능력이 없는 건지도 모르겠군요!}
 {590}{}{와... 미안합니다! 흠, 신경쓰지 마십시오... 묻고 싶은 질문들이 있습니다...}
 {591}{}{만약 그것이 당신에게 맹목적으로 동의하는 것이라면 '당신'이야말로 시민권의 의무에 대해 논할 자격이 없는 것 아니겠소.}
 {592}{}{토마스 무어는 시민이고 그는 이 운동의 지도자요.}
 {593}{}{새로운 시대가 왔고 이제 변할 때가 되었소.}
 {594}{}{그렇게 느낀다면 미안하군요, 그럼 안녕히.}
-{595}{lyn093}{No. He is not a TRUE Citizen... not anymore. When he came to us two years ago, he seemed
- everything we would want in a Citizen. But just a year later he... changed. He turned against us.}
+{595}{lyn093}{아닙니다. 그는 더는 진정한 시민이 아닙니다. 2년 전에 찾아왔을 때만 해도 이상적인 시민의
+ 모습을 갖춘 사람처럼 보였지요. 하지만 불과 1년 뒤에 그는... 변했습니다. 우리에게 등을 돌렸지요.}
 {596}{}{몇 가지를 설명할 수 있습니다. 무어는 단지 잠시동안 역할을 맡았을 것입니다.}
 {597}{}{아마 변화할 때가 왔나 보죠.}
 {598}{}{무어를 "진정한" 시민으로 여기지 않으신다니 안타깝군요. 아마 당신은 시민이 된다는 게 무엇을 의미하는지 다시 살펴봐야 할 겁니다.}
 {599}{}{아마 그는 그냥 빛을 본 것이겠지요. 좋은 하루 되십시오.}
-{600}{lyn094}{We have prospered in this world where so many others have failed, and you tell me we need
- to change? Look at the outside world! Anarchy, depravity, sickness... Vault City is a paradise!}
+{600}{lyn094}{수많은 사람이 실패한 이 세상에서 우리는 번영을 이뤘는데, 우리더러 변해야
+ 한다고요? 바깥세상을 보십시오! 무정부 상태, 타락, 질병... 볼트 시티는 낙원입니다!}
 {601}{}{그게 변화가 필요한 정확한 이유요. 당신들이 이룬 것을 남에게 나눠줘야 하오.}
 {602}{}{아마 어떤 이들에게는 천국이겠지. 나는 당신들의 노예는 당신과 동의하지 않는다고 믿고 있소.}
 {603}{}{나는 더 이상 당신과 논쟁하지 않을 것이오. 좋은 하루 되시오.}
-{604}{lyn095}{Vault City was built through the hard work and suffering of many Citizens. The outside
- world should look to our example and follow it, not sit outside our walls and beg for handouts.}
+{604}{lyn095}{볼트 시티는 수많은 시민이 땀과 고통을 감수하며 건설했습니다. 외부 세계가
+ 해야 할 일은 우리 성벽 밖에 주저앉아 구걸하는 게 아니라 우리를 본받는 겁니다.}
 {605}{}{시민들의 힘든 노동? 당신 도시의 어디를 가도 진짜 노동은 노예들이 하더군요.}
 {606}{}{나는 더 이상 당신과 논쟁하지 않을 것이오. 그럼 안녕히.}
-{607}{lyn096}{Why do we condone slavery? The system has been in place for many years, and it works
- quite well. Both parties benefit from the institution.}
+{607}{lyn096}{우리가 왜 노예제를 용인하느냐고요? 이 제도는 오랫동안 유지됐고 아주 잘
+ 작동하고 있습니다. 양쪽 모두 이득을 보니까요.}
 {608}{}{알겠습니다. 다른 질문을 해도 되겠습니까?}
 {609}{}{당신의 노예들은 다르게 생각할 것이오.}
 {610}{}{그러나... 당신들은 브라민처럼 사람을 사고 파는 것이오. 노예를 유지하는 게 괴롭지 않소?}
 {611}{}{충분히 들었습니다. 그럼 안녕히.}
 {612}{}{시간을 내줘서 고맙소, 제1시민. 좋은 하루 되시오.}
-{613}{lyn097}{They are not slaves, they are our "servants." We have given them homes, food, clothing,
- and a purpose. We have given them a life.}
+{613}{lyn097}{그들은 노예가 아닙니다. 우리의 '하인'이지요. 우리는 그들에게 집과 음식과 옷, 그리고 삶의
+ 목적을 줬습니다. 삶을 베풀어 준 겁니다.}
 {614}{}{물론 그렇겠지. 왜 그들이 당신들을 위해 일하겠소?}
 {615}{}{어떤 달콤한 말로도 그 추악한 냄새를 뒤덮을 수 없소. 그것은 노예제도요.}
 {616}{}{어... 물론, 음, 다른 질문이 있습니다...}
@@ -600,32 +600,32 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {634}{lyn101}{시민으로서 할 행동이 아니군요! 나는 당신의 시민권을 철회하겠어요. 경비들이 당신을 정문으로 데려갈 거에요.}
 {635}{}{당신의 경비들은 당신의 목숨을 제 때 구하러 오지 못할 것이오... "제1시민"}
 {636}{}{경비는 필요없소. 평화롭게 나가겠소.}
-{637}{lyn102}{Although it would serve Vault City's interests, I can't... as long as he breaks no laws,
- Moore is permitted to say anything he wants.}
+{637}{lyn102}{그를 막는 게 볼트 시티의 이익에 부합하겠지만, 그럴 수는... 없습니다. 무어가 법을 어기지
+ 않는 한 원하는 말은 무엇이든 할 수 있습니다.}
 {638}{}{내가 그를... 처리하기 원합니까?}
 {639}{}{오, 그러나 그는 법을 어겼습니다. 무어는 단순한 시민이 아닙니다... 그는 다른 이의 이익을 쫓고 있었습니다.}
 {640}{}{다른 질문을 해도 괜찮겠습니까?}
 {641}{}{글쎄요, 그는 결국 제 무덤을 파겠지요. 나중에 뵙죠.}
 {642}{}{알겠습니다. 시간을 내줘서 고맙습니다, 제1시민.}
-{643}{lyn103}{A spy for NCR? That... that... would explain a great many things. Thank you, Citizen. I
- will deal with this immediately.}
+{643}{lyn103}{NCR의 첩자라고요? 그... 그렇다면 여러 가지 의문이 풀리는군요. 고맙습니다,
+ 시민. 즉시 조치하겠습니다.}
 {644}{}{다른 질문들이 있습니다...}
 {645}{}{좋군요, 고맙습니다. 그럼 안녕히.}
 {646}{}{고맙습니다, 제1시민.}
-{647}{lyn104}{They started several months ago. The laser turrets have been able to hold them off, but I
- don't know how much longer we can stop them.}
+{647}{lyn104}{몇 달 전부터 공격이 시작됐습니다. 레이저 포탑이 막아 내고는 있지만, 앞으로
+ 얼마나 더 버틸 수 있을지 모르겠습니다.}
 {648}{}{이 레이더들은 뭐하는 자들입니까?}
 {649}{}{다른 질문이 있습니다...}
 {650}{}{그만 가봐야 겠습니다. 그럼 안녕히.}
 {651}{}{안됐군요, 아마 그들은 좀 더 쉬운 목표를 찾아갈 것입니다. 좋은 하루 되십시오, 제1시민.}
-{652}{lyn105}{Outsider trash. For over a century, Outsiders have tried to loot our city... and have
- always failed. Eventually, we will defeat this group.}
+{652}{lyn105}{외부인 쓰레기들이지요. 지난 백 년 넘게 외부인들은 우리 도시를 약탈하려 했지만...
+ 언제나 실패했습니다. 결국 이번 무리도 물리칠 겁니다.}
 {653}{}{어... "마침내는?" 왜 그들을 쓸어버리지 않았습니까?}
 {654}{}{다른 질문을 해도 되겠습니까?}
 {655}{}{그만 가봐야 겠습니다. 그럼 안녕히.}
 {656}{}{가봐야 겠습니다. 좋은 하루 되세요, 제1시민.}
-{657}{lyn106}{Finding their base has proven difficult. In addition, they also have a great deal of
- firepower. Nevertheless, we have repelled every attack... with minimal casualties.}
+{657}{lyn106}{그들의 기지를 찾기가 어려웠습니다. 게다가 상당한 화력까지 갖췄습니다.
+ 그래도 우리는 모든 공격을 격퇴했습니다... 피해는 최소한으로 억제했지요.}
 {658}{}{다른 질문을 해도 되겠습니까?}
 {659}{}{그만 가봐야 겠습니다. 그럼 안녕히.}
 {660}{}{시간을 내줘서 고맙습니다. 좋은 하루 되십시오, 제1시민.}
@@ -635,8 +635,8 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {1663}{}{그들은 남쪽 산기슭의 여러 동굴에 숨어 있습니다. 그들의 길잡이를 설득해 더는 레이더들을 돕지 않게 했습니다. 그 길잡이 없이는 산속에서 길을 찾지 못할 겁니다.}
 {664}{}{정보에는 대가가 필요하지요.}
 {665}{}{아무것도 아닙니다. 그만 가봐야겠습니다.}
-{666}{lyn108}{You have? Excellent! But the city guards are already stretched thin... What about you?
- Could you end the attacks? I'll pay you.}
+{666}{lyn108}{그들의 기지를 찾았다고요? 훌륭합니다! 하지만 도시 경비대도 이미 인력이 부족합니다... 당신은 어떻습니까?
+ 공격을 끝내 줄 수 있겠습니까? 보수를 드리겠습니다.}
 {667}{}{아니요, 지금은 너무 바빠서 안되겠습니다.}
 {668}{}{한 번 해보도록 하지요.}
 {669}{lyn109}{알겠습니다. 실례합니다만 저도 부쩍 바쁘군요. 배웅은 안해도 되겠죠.}
@@ -653,25 +653,25 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {680}{}{실제 증거는 가지고 있지 않습니다만, 리노 사람들의 말에 의하면 비숍 패밀리가 배후에 있다고 하더군요.}
 {681}{}{레이더들의 금고에서 이 회계 장부를 찾았습니다. 비숍이 당신네 도시를 상대로 벌인 3개월간의 테러 공작에 대한 지불 내역이 적혀 있더군요... 당신이 고집을 부릴 경우를 대비해 1개월 연장 옵션도 포함되어 있었습니다.}
 {682}{}{결정적인 증거는 없습니다. 알아보고 있는 중입니다.}
-{683}{lyn112}{I would not be surprised. Bishop visited Vault City not long ago, and suggested an
- alliance. I refused, of course. We don't associate with criminals.}
+{683}{lyn112}{놀랍지도 않군요. 얼마 전 비숍이 볼트 시티에 와서 동맹을 제안한 적이
+ 있습니다. 물론 거절했지요. 우리는 범죄자들과 어울리지 않습니다.}
 {684}{}{아마 레이더들의 공격은 그가 동맹을 맺도록 강요하는 방식이었겠군요.}
-{685}{lyn113}{I would sooner ask NCR for help. If you come across any hard evidence of Bishop's
- involvement, please bring it to me at once.}
+{685}{lyn113}{차라리 NCR에 도움을 청하겠습니다. 비숍이 관련됐다는 확실한 증거를
+ 찾으면 즉시 내게 가져오십시오.}
 {686}{}{잘 알겠습니다. 다른 질문이 있습니다만...}
 {687}{}{증거를 발견하면 당신에게 알려주겠습니다.}
 {688}{}{그러겠습니다. 제1시민. 좋은 하루 되십시오.}
-{689}{lyn114}{I'm not surprised. Bishop visited not long ago and suggested an alliance. I refused, of
- course. We don't associate with criminals.}
+{689}{lyn114}{놀랍지 않군요. 비숍이 얼마 전 이곳에 와서 동맹을 제안했지요. 물론 거절했습니다.
+ 우리는 범죄자들과 어울리지 않습니다.}
 {690}{}{그는 이미 예상하고 있었던 것 같군요. 비숍의 금고에서 이 홀로디스크를 찾았습니다. 그는 볼트 시티를 공화국에 가입시키기 위해 NCR에 고용되었습니다. 당신이 제안을 거절하자, 그는 당신이 NCR에 도움을 요청하게 만들려고 용병을 고용해 공격한 겁니다.}
 {691}{}{아마 레이더들의 공격은 그가 동맹을 맺도록 강요하는 방식이었겠군요.}
-{692}{lyn115}{Possibly... but it would never work. I would sooner ask NCR for help. You have done Vault
- City a great service. Please take this as a token of our appreciation.}
+{692}{lyn115}{그럴지도 모르지만... 그 방법은 통하지 않을 겁니다. 차라리 NCR에 도움을 청하겠어요.
+ 볼트 시티에 큰 공을 세우셨습니다. 감사의 표시로 이것을 받아 주십시오.}
 {693}{}{고맙습니다. 다른 질문들이 있습니다...}
 {694}{}{뭔가 더 듣게 되면, 당신에게 알려주겠습니다.}
 {695}{}{천만에요, 제1시민. 좋은 하루 되십시오.}
-{696}{lyn116}{Of course. They sent mercenaries to murder my people because I wouldn't join their
- government? I... I can barely believe it.}
+{696}{lyn116}{물론이지요. 내가 그들 정부에 합류하길 거절했다는 이유로 내 사람들을 죽이려고 용병을
+ 보냈다고요? 이... 이건 정말 믿기 어렵군요.}
 {697}{}{조금 더 복잡합니다. 토마스 무어도 연관되어 있습니다.}
 {698}{}{제가 도와드릴 일이 없습니까?}
 {699}{}{거친 세상이지요. 어쨌든, 보상에 --}
@@ -687,14 +687,14 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {1708}{}{산기슭의 여러 동굴에 은신해 있더군요. 그들의 가이드한테 더는 도움을 주지 않도록 설득했죠. 그 사람 없이는 그 산 속에선 절대로 길을 못 찾을 겁니다.}
 {709}{}{사실, 나는 아무 것도 모르오.}
 {710}{}{돈 고맙소. 이만 가보겠소.}
-{711}{lyn119}{I need you to go immediately to New California Republic and find Counselor Westin,
- Roger Westin. Give him the holodisk. That should insure that no more "raiders" get hired.}
+{711}{lyn119}{즉시 뉴 캘리포니아 공화국으로 가서 로저 웨스틴 의원을 찾으십시오. 그에게
+ 홀로디스크를 전하세요. 그러면 더는 '약탈자'들이 고용되는 일이 없을 겁니다.}
 {712}{}{어... 못들었습니까? 웨스틴은 죽었습니다. 음, 사고, 그것도 치명적인 사고로 죽었습니다. 긴 이야기입니다만.}
 {713}{}{잠깐만요. NCR로 가라고요? 그들이 이 모든 것의 배후자이지 않습니까?}
 {714}{}{알겠습니다. 그렇게 하겠습니다.}
 {715}{}{사양하겠습니다. 너무 바쁘군요.}
-{716}{lyn120}{Roger Westin was probably the only honest man in the New Republic and a sympathetic
- to our cause... his death is a terrible loss.}
+{716}{lyn120}{로저 웨스틴은 아마 뉴 캘리포니아 공화국에서 유일하게 정직하면서 우리 입장을 이해해 주던 사람이었을
+ 겁니다... 그의 죽음은 참으로 큰 손실입니다.}
 {717}{}{네, 아주 강인한 영감님이었죠. 좋은 분이었고요. 체력도 꽤 높으셨죠. 그래서... 이런 정보를 다 알아다 준 대가로 보상을 받을 수 있는 겁니까, 아니면...?}
 {718}{}{네, 저도 가슴이 아픕니다. 그를 본 게 어제 일 같았는데.}
 {719}{lyn121a}{"레이더들"에 대한 정보료를 이미 지불한 것으로 기억하는데요. 당신은 보상받았어요. 자, 그럼 나가보도록 하세요.}
@@ -712,8 +712,8 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {731}{}{가기 전에, 몇 가지 질문이 있습니다....}
 {732}{}{가보겠습니다.}
 {733}{}{믿어 주십시오, 제1시민. 웨스틴에게 디스크를 전달해주고 되돌아 오겠습니다.}
-{734}{lyn124}{Nevertheless, Vault City will prevail. You have performed a valuable service...
- please accept this token of our appreciation.}
+{734}{lyn124}{그렇더라도 볼트 시티는 이겨 낼 겁니다. 당신은 큰 공을 세웠습니다...
+ 감사의 표시로 이것을 받아 주십시오.}
 {735}{}{고맙습니다. 다른 질문이 있습니다만...}
 {736}{}{좋군요! 고맙습니다... 그만 가보겠습니다.}
 {737}{}{고맙습니다, 제1시민.}
@@ -732,8 +732,8 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {750}{}{가기 전에, 몇 가지 질문이 있습니다...}
 {751}{}{알겠습니다. 배달하러 가겠습니다.}
 {752}{}{믿어 주십시오, 제1시민. 웨스틴에게 디스크를 전달해주고 되돌아 오겠습니다.}
-{753}{lyn128}{I can see that our agreement meant nothing to you. Very well then; your Vault City privileges
- are revoked. My guards will escort you to the front gate.}
+{753}{lyn128}{우리의 합의가 당신에게는 아무 의미도 없었던 모양이군요. 좋습니다. 볼트 시티에서 누리던
+ 당신의 특권은 박탈합니다. 경비가 정문까지 데려다줄 겁니다.}
 {754}{}{당신을 죽인 다음에... 저 경비들도 죽일 거요.}
 {755}{}{좋소! 자, 디스크를 받으시오, 난 가겠소.}
 {756}{lyn129}{고마워요! 당신은 정말 큰 일을 해주었어요! 웨스틴이 답장을 보내지 않던가요?}
@@ -744,27 +744,27 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {761}{}{3초간 화면이 희미해진다}
 {762}{lyn130b}{우리는 앞으로 오랫 동안 NCR와 문제가 없을거에요.}
 {763}{}{좋은 소식이군요.}
-{764}{lyn131}{Now... regarding payment: Report to Randal, the Chief Amenities Officer. Tell him I sent
- you, and he will present you with your reward. Thank you again. }
+{764}{lyn131}{자, 이제 보수에 관해서는 편의시설 책임자 랜달에게 가십시오. 내가 보냈다고
+ 하면 보상을 지급할 겁니다. 다시 한번 감사드립니다.}
 {765}{}{가기 전에, 다른 질문들이 있습니다...}
 {766}{}{알겠습니다, 보상이여, 내가 간다.}
 {767}{}{감사합니다, 제1시민. 좋은 하루 되십시오.}
-{768}{lyn132}{Your service has been exemplary. So much so that it is my honor to name you Captain of the
- Guard. Congratulations, Captain. You deserve it.}
+{768}{lyn132}{당신의 공적은 모범적입니다. 그 공로를 인정하여 경비대장으로 임명하게 된 것을 영광으로 생각합니다.
+ 축하합니다, 대장. 그럴 자격이 충분합니다.}
 {769}{}{어... 고맙습니다.}
 {770}{}{고맙습니다, 제1시민.}
-{771}{lyn133}{In addition, report to Randal, the Chief Amenities Officer. Tell him I sent you, and
- receive your reward. We are in your debt... Captain.}
+{771}{lyn133}{또한 편의시설 책임자 랜달에게 가십시오. 내가 보냈다고 전하고 보상을 받으세요.
+ 우리는 당신에게 큰 빚을 졌습니다... 대장.}
 {772}{}{가기 전에, 다른 질문들이 있습니다...}
 {773}{}{알겠습니다, 보상! 내가 간다.}
 {774}{}{고맙습니다, 제1시민. 좋은 하루.}
-{775}{lyn134}{You lost it?! That correspondence was extremely important! Very well... here's your
- payment for delivery of the disk. Now, if you'll excuse me... }
+{775}{lyn134}{그걸 잃어버렸다고요?! 그 서신은 대단히 중요했습니다! 좋습니다... 홀로디스크를
+ 전달한 보수는 여기 있습니다. 그럼 이제 실례하겠습니다...}
 {776}{}{잠깐만요. 가기 전에, 다른 질문들이 있습니다...}
 {777}{}{나중에 봅시다.}
 {778}{}{좋은 하루 되십시오, 제1시민.}
-{779}{lyn135}{He didn't give you anything? Strange... in any event, here's your payment for delivering
- the disk. Now, if you'll excuse me...}
+{779}{lyn135}{그가 아무것도 주지 않았다고요? 이상하군요... 아무튼 홀로디스크를 전달한 보수는 여기
+ 있습니다. 그럼 이제 실례하겠습니다...}
 {780}{}{잠깐만요. 가기 전에, 다른 질문들이 있습니다...}
 {781}{}{나중에 봅시다.}
 {782}{}{좋은 하루 되십시오, 제1시민.}
@@ -772,8 +772,8 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {784}{}{비숍의 금고에서 이 홀로디스크를 찾았습니다. "그"는 볼트 시티를 공화국에 가입시키기 위해 NCR에 고용되었습니다. 당신이 처음 제안을 거절하자, 그는 당신이 NCR에 도움을 요청하게 만들려고 용병을 고용해 공격한 겁니다.}
 {785}{lyn099}{무슨 뜻입니까?}
 {786}{}{무어는 사실 NCR을 위해 일하고 있었습니다.}
-{787}{lyn138}{A spy for NCR? That... that... would explain a great many things. Thank you for exposing
- this, Citizen. THAT problem I can take care of immediately.}
+{787}{lyn138}{NCR의 첩자라고요? 그... 그렇다면 많은 일들이 설명되는군요. 밝혀내 주셔서
+ 감사합니다, 시민. 그 문제라면 즉시 처리할 수 있습니다.}
 {788}{}{NCR 문제에 대한 것인데... 도움을 드릴 일이 없을까요?}
 {789}{}{잘됐군요. 어쨌든, 리노와 NCR에 대한 이 모든 것들을 파악하는 것에 대해서, 나는 혹시 보--}
 
