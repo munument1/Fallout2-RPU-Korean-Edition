@@ -29,8 +29,12 @@ AI가 생성한 결과는 **확정 교정본이 아니라 후보**입니다.
     powershell -NoProfile -ExecutionPolicy Bypass -File korean/run_local_batch.ps1
 
 Windows 작업 스케줄러 작업명: Fallout2-RPU-Overnight-Review
-기본 매일 오전 3시, 1회 최대 115분, 중복 실행 금지.
-PC가 꺼져 있으면 실행되지 않고 Ollama 미설치/미작동 시 진행되지 않습니다.
+최초 예정: 매일 오전 3시, 1회 최대 115분, 중복 실행 금지.
+**2026-10-17 품질 검증 후 이 자동 실행 작업을 사용 중지했습니다.**
+사유: qwen3:14b와 gemma4 모두 명백한 오역을 높은 비율로 놓치고,
+일부는 검토 이유에 적은 내용조차 제안 번역에 반영하지 못함.
+재개 전에는 더 정확한 모델 및 원문·SSL 기반 독립 검증 단계가 필요합니다.
+정적 GitHub Actions 자동 검사는 계속 실행되며 게임 번역 데이터는 변경하지 않습니다.
 
 기존 korean/audit_dialogue_register.py --script-limit 0은
 규칙 기반으로 전체 MSG에 대해 말투 후보만 탐지하며
