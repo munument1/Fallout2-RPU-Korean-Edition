@@ -85,7 +85,12 @@ def checked_path(root:Path,rel:str)->Path:
         current=current/component
         if current.is_symlink():
             raise ValueError("Refusing a symlink in translation destination: "+rel)
-    if not candidate.resolve(strict=False).is_relative_to(root):
+    # Windows may present the same folder with different path casing or 8.3
+    # aliases. Python Path.is_relative_to is lexical/case-sensitive even on NT.
+    # Normalize BOTH sides and require a component-boundary common parent.
+    normalized_root=os.path.normcase(os.path.abspath(str(root.resolve(strict=True))))
+    normalized_target=os.path.normcase(os.path.abspath(str(candidate.resolve(strict=False))))
+    if os.path.commonpath((normalized_root,normalized_target))!=normalized_root:
         raise ValueError("Target path escapes the game folder.")
     return candidate
 
