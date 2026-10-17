@@ -1,0 +1,25 @@
+﻿msg_id,speaker_context,english,previous_korean,updated_korean,reason
+152,warrior_reply,"Hello, Chosen One, can I help you in your quest?","안녕, 선택받은 자. 임무에 도움이 필요하신가?","안녕하세요, 선택받은 자여. 사명을 이루는 데 도움이 필요하신가요?",영어 원문·acwarior.ssl의 NPC/Option 및 어법 대조
+153,player_option,I'm just looking around the village one last time before I leave.,그냥 떠나기 전에 마을을 둘러보고 있는 것 뿐이야.,떠나기 전에 마을을 마지막으로 한 번 둘러보는 중이야.,영어 원문·acwarior.ssl의 NPC/Option 및 어법 대조
+156,warrior_reply,Gods give you speed to bring back Eden before it is too late.,신들께서 네가 너무 늦기전에 에덴을 가져올 수 있도록 속력을 주시기를.,신들께서 너무 늦기 전에 에덴을 가져올 수 있도록 당신의 발걸음을 재촉해 주시길 빕니다.,영어 원문·acwarior.ssl의 NPC/Option 및 어법 대조
+159,warrior_reply,"Oh, you're testing me. Go see Hakunin in the northern corner of the village. He makes our
+ medicines.","오, 나를 시험하시는군요. 마을 북쪽 구석에 있는 하쿠닌을 찾아가 보세요. 그가 우리 약을 만듭니다.","오, 저를 시험하시는군요. 마을 북쪽 구석에 있는 하쿠닌에게 가 보세요. 우리 약은 그가 만들어요.",영어 원문·acwarior.ssl의 NPC/Option 및 어법 대조
+161,warrior_reply,"Well, I've seen them when Mynoc has us guard the bridge, but he does all the dealing.
+ Talk to him at the Great Bridge.","글쎄요, 미녹이 다리를 지키라고 할 때 그들을 보긴 했지만, 거래는 그가 다 합니다. 위대한 다리에 있는 그와 이야기해 보세요.","미녹이 우리에게 다리를 지키게 할 때 상인들을 본 적은 있지만, 거래는 미녹이 직접 맡고 있어요. 위대한 다리에서 그를 만나 보세요.","Node004/005의 도달성 미입증, 영어 원문·acwarior.ssl의 NPC/Option 및 어법 대조"
+165,warrior_reply,"Chosen One? The Great Bridge is at the southern end of the village. You know,
+ you've been there many times.",선택받은 자여? 위대한 다리는 마을 남쪽 끝에 있어요. 당신도 알다시피 여러 번 가보셨잖아요.,"선택받은 자여, 위대한 다리는 마을 남쪽 끝에 있어요. 이미 여러 번 가보셨잖아요.","Node004/005의 도달성 미입증, 영어 원문·acwarior.ssl의 NPC/Option 및 어법 대조"
+168,warrior_reply,"Of course, what is it?","물론이지, 어떤 질문인데?",물론이죠. 무엇이 궁금하신가요?,영어 원문·acwarior.ssl의 NPC/Option 및 어법 대조
+172,warrior_reply,"Ah, dull one. They say you are the Chosen One. I must say the spirit
+ of the Founder works in strange ways.","아, 둔한 자여. 사람들이 당신을 선택받은 자라고 부르더군. 창시자의 영혼이 참 기묘한 방식으로 일하시는 것 같소.","아, 둔한 자여. 사람들이 당신을 선택받은 자라고 부르더군. 시조의 영혼은 참 기묘하게 움직이는 것 같소.","특수 분기(저지능 조롱/진행 경과)에 의도적 예외, 영어 원문·acwarior.ssl의 NPC/Option 및 어법 대조"
+174,warrior_reply," Have a safe journey, dull one -- for our sake."," 안전한 여행이 되기를, 둔한 자여 -- 우리들을 위해서.","부디 안전한 여행이 되기를, 둔한 자여. 우리 모두를 위해서.","특수 분기(저지능 조롱/진행 경과)에 의도적 예외, 영어 원문·acwarior.ssl의 NPC/Option 및 어법 대조"
+180,warrior_reply,"They are nothing to us! They scavenge the dying corpse
+ of the wastes to live.",그들은 우리에게 아무것도 아니오! 그저 살아가기 위해 황무지의 죽어가는 시체를 뒤지는 자들일 뿐이지.,그 상인들은 우리와 아무 상관없습니다! 그저 황무지의 남은 것들을 주워 겨우 살아가는 자들일 뿐이죠.,영어 원문·acwarior.ssl의 NPC/Option 및 어법 대조
+300,warrior_reply,"Hello again, Chosen One. May the warrior spirits protect and guide you.","다시 만났군, 선택받은 자. 전사들의 영혼이 너를 보호하고 인도하시기를.","다시 만나 뵙는군요, 선택받은 자여. 전사들의 영혼이 당신을 보호하고 인도하길 빕니다.","특수 분기(저지능 조롱/진행 경과)에 의도적 예외, 영어 원문·acwarior.ssl의 NPC/Option 및 어법 대조"
+301,warrior_reply,"Are you having difficulties, Chosen One? You must not fail us - please hurry.","어려운 일은 없나, 선택받은 자? 우리의 기대를 저버리지 마 - 부디, 서두르도록 해.","어려움을 겪고 계신가요, 선택받은 자여? 우리를 실망시키지 말아 주세요. 부디 서둘러 주세요.","특수 분기(저지능 조롱/진행 경과)에 의도적 예외, 영어 원문·acwarior.ssl의 NPC/Option 및 어법 대조"
+302,warrior_reply,"Why do you wait so long? We must have the GECK soon. Chosen One, our village is dying.","왜 이렇게 오래걸리는 거야? 우리는 어서 GECK을 얻어야 해. 선택받은 자, 우리의 마을이 죽어가고 있어.","왜 이렇게 오래 걸리는 건가요? 우리는 하루빨리 GECK이 필요해요. 선택받은 자여, 우리 마을이 죽어가고 있어요.","특수 분기(저지능 조롱/진행 경과)에 의도적 예외, 영어 원문·acwarior.ssl의 NPC/Option 및 어법 대조"
+303,warrior_reply,"Chosen One, our village is almost dead. Why have you not brought the holy GECK to us yet?","선택받은 자, 우리의 마을은 파멸의 목전에 있어. 왜 아직도 성스러운 GECK을 가져오지 않는 거야?","선택받은 자여, 우리 마을은 이제 거의 끝장날 지경입니다. 어째서 아직도 성스러운 GECK을 가져오지 않으신 건가요?","특수 분기(저지능 조롱/진행 경과)에 의도적 예외, 영어 원문·acwarior.ssl의 NPC/Option 및 어법 대조"
+971,topic_dictionary,You are talking to me.,내 얘기를 하고있군.,지금 내게 말을 걸고 있잖아.,영어 원문·acwarior.ssl의 NPC/Option 및 어법 대조
+1104,topic_dictionary,That's a trading outpost a few days east of here.,"여기서 동쪽으로 며칠 정도의 거리에 있고, 우리와 무역하는 마을이로군.",여기서 동쪽으로 며칠 거리에 있는 교역 거점이지.,영어 원문·acwarior.ssl의 NPC/Option 및 어법 대조
+1109,topic_dictionary,"It is a magic powder which will heal you, but will make
+ you sleepy.","그것은 당신을 치료해 주는 마법의 가루이지만, 당신을 졸리게 만들 겁니다.",그건 널 낫게 해 주지만 졸리게도 만드는 마법의 가루야.,영어 원문·acwarior.ssl의 NPC/Option 및 어법 대조
+1110,topic_dictionary,The Great Bridge exits our village in the south.,남쪽에 있는 우리 마을의 출구지.,위대한 다리는 마을 남쪽으로 나가는 출구야.,영어 원문·acwarior.ssl의 NPC/Option 및 어법 대조
