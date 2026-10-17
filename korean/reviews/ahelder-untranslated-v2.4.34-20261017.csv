@@ -1,0 +1,78 @@
+﻿msg_id,speaker_context,english,previous_korean,updated_korean,reason
+103,elder_reply,"Congratulations, Chosen One, you have survived the Temple of Trials. Are
+ you ready for your quest?","Congratulations, Chosen One, you have survived the Temple of Trials. Are
+ you ready for your quest?","축하하네, 선택받은 자여. 시련의 사원에서 살아남았구나. 이제 사명을
+ 떠맡을 준비가 되었나?","영어 원문 및 ahelder.ssl 실제 Reply/음성 ID 대조, 정상/강조 분기별 장로 화법으로 미번역 복원"
+107,elder_reply,"I am proud of you, Chosen. You have overcome much. Now. You must go find Vault
+ 13. Vault 13. Bring the GECK home. GECK. Here is a shiny bottle. Vic gave us this. Vic.
+ He is a trader in Klamath. Klamath. Go to Vic. Find Vault 13. Find GECK. Come home. Do
+ your best, child.","I am proud of you, Chosen. You have overcome much. Now. You must go find Vault
+ 13. Vault 13. Bring the GECK home. GECK. Here is a shiny bottle. Vic gave us this. Vic.
+ He is a trader in Klamath. Klamath. Go to Vic. Find Vault 13. Find GECK. Come home. Do
+ your best, child.","네가 자랑스럽구나, 선택받은 자여. 많은 시련을 이겨 냈지. 이제 볼트 13을 찾아야 한다. 볼트
+ 13. GECK을 마을로 가져오너라. GECK. 여기 반짝이는 병이 하나 있네. 빅이 우리에게 준 거지. 빅.
+ 그는 클라마스의 상인이야. 클라마스. 빅을 찾아가라. 볼트 13을 찾아. GECK을 찾아. 마을로 돌아오너라.
+ 최선을 다하렴, 얘야.","영어 원문 및 ahelder.ssl 실제 Reply/음성 ID 대조, 정상/강조 분기별 장로 화법으로 미번역 복원"
+124,elder_reply,"That is good news, but not enough to save us. You must come back soon with the
+ GECK or our people will die!","That is good news, but not enough to save us. You must come back soon with the
+ GECK or our people will die!","반가운 소식이지만, 그것만으로는 우릴 구할 수 없네. 어서 GECK을 가지고 돌아오지 않으면
+ 부족 사람들이 모두 죽을 거야!","영어 원문 및 ahelder.ssl 실제 Reply/음성 ID 대조, 정상/강조 분기별 장로 화법으로 미번역 복원"
+127,elder_reply,"You survived. The Chosen One cannot be weak or we are all doomed. Are you
+ prepared for your quest?","You survived. The Chosen One cannot be weak or we are all doomed. Are you
+ prepared for your quest?","살아남았구나. 선택받은 자가 나약하다면 우린 모두 끝장이야. 이제 사명을
+ 수행할 준비가 되었느냐?","영어 원문 및 ahelder.ssl 실제 Reply/음성 ID 대조, 정상/강조 분기별 장로 화법으로 미번역 복원"
+131,elder_reply,"Pay attention. Find the holy Vault 13 and bring back the GECK. Vic, the trader
+ from Klamath, brought us the flask from the holy Thirteen. Start your search with him.
+ The disk will remind you of your task. May the gods of the Vault watch over you.","Pay attention. Find the holy Vault 13 and bring back the GECK. Vic, the trader
+ from Klamath, brought us the flask from the holy Thirteen. Start your search with him.
+ The disk will remind you of your task. May the gods of the Vault watch over you.","잘 듣게. 성스러운 볼트 13을 찾아 GECK을 가져와야 하네. 클라마스의 상인
+ 빅이 성스러운 볼트 13에서 나온 그 병을 우리에게 가져다주었지. 우선 그자를 찾아가게.
+ 이 디스크가 자네의 사명을 일깨워 줄 거야. 볼트의 신들이 자네를 지켜 주시기를.","영어 원문 및 ahelder.ssl 실제 Reply/음성 ID 대조, 정상/강조 분기별 장로 화법으로 미번역 복원"
+143,elder_reply,"It is a holy artifact - the Garden of Eden Creation Kit. The disks promise it
+ will make our lands green and our village prosperous. It will save us. More, I do not know.","It is a holy artifact - the Garden of Eden Creation Kit. The disks promise it
+ will make our lands green and our village prosperous. It will save us. More, I do not know.","GECK은 성스러운 유물, 곧 에덴 동산 창조 키트라네. 디스크에 따르면 우리
+ 땅을 푸르게 만들고 마을을 풍요롭게 할 수 있지. 우릴 구해 줄 거야. 그 이상은 나도 모르네.","영어 원문 및 ahelder.ssl 실제 Reply/음성 ID 대조, 정상/강조 분기별 장로 화법으로 미번역 복원"
+149,elder_reply,"The holy Thirteen? I cannot help you. Only the Vault Dweller knew. His tales have
+ the sound of a perilous journey. ","The holy Thirteen? I cannot help you. Only the Vault Dweller knew. His tales have
+ the sound of a perilous journey. ","성스러운 볼트 13 말인가? 나도 도와줄 수 없네. 오직 볼트 거주자만 그곳을 알고 있었지. 그가 들려준
+ 이야기를 보면 위험한 여정이 될 게야.","영어 원문 및 ahelder.ssl 실제 Reply/음성 ID 대조, 정상/강조 분기별 장로 화법으로 미번역 복원"
+152,elder_reply,"Being a coward will kill us all! Including you. You passed
+ the Temple Trials. We have faith in you. We need you.","Being a coward will kill us all! Including you. You passed
+ the Temple Trials. We have faith in you. We need you.","겁쟁이처럼 굴다간 자네까지 우리 모두 죽게 될 걸세! 자네는 시련의
+ 사원을 통과했네. 우리는 자네를 믿어. 자네가 필요하다고.","영어 원문 및 ahelder.ssl 실제 Reply/음성 ID 대조, 정상/강조 분기별 장로 화법으로 미번역 복원"
+159,elder_reply,"Then take this flask. It is from the holy Vault 13. Vic, a trader in Klamath,
+ brought it to us. He may know where the vault is. You may also need some of what they
+ call money. Here.","Then take this flask. It is from the holy Vault 13. Vic, a trader in Klamath,
+ brought it to us. He may know where the vault is. You may also need some of what they
+ call money. Here.","그렇다면 이 병을 받게. 성스러운 볼트 13에서 나온 물건이야. 클라마스의 상인 빅이
+ 가져왔지. 그가 볼트의 위치를 알지도 모르네. 또 밖에서는 '돈'이라고 부르는 것도 필요할
+ 테지. 여기 있네.","영어 원문 및 ahelder.ssl 실제 Reply/음성 ID 대조, 정상/강조 분기별 장로 화법으로 미번역 복원"
+164,elder_reply,"It's good to see you again, Child. I don't mean to be abrupt but I see you
+ haven't completed your quest to find the holy Thirteen. Please, let's not waste time
+ talking. The need of our people is great. Go find the Vault!","It's good to see you again, Child. I don't mean to be abrupt but I see you
+ haven't completed your quest to find the holy Thirteen. Please, let's not waste time
+ talking. The need of our people is great. Go find the Vault!","다시 보니 반갑구나, 얘야. 다짜고짜 이런 말을 해서 미안하지만, 자네는
+ 아직 성스러운 볼트 13을 찾는 사명을 마치지 못했군. 얘기로 시간을 허비하지
+ 말자꾸나. 우리 부족이 위태롭네. 어서 볼트를 찾게!","영어 원문 및 ahelder.ssl 실제 Reply/음성 ID 대조, 정상/강조 분기별 장로 화법으로 미번역 복원"
+169,elder_reply,"Once again you return without the GECK. Our crops begin to fail us, Chosen. Our
+ need becomes greater with the passage of time. Go find the holy Thirteen!","Once again you return without the GECK. Our crops begin to fail us, Chosen. Our
+ need becomes greater with the passage of time. Go find the holy Thirteen!","이번에도 GECK 없이 돌아왔구나. 선택받은 자여, 농작물이 시들기 시작했네. 시간이
+ 갈수록 우리 처지는 더 절박해지고 있어. 어서 성스러운 볼트 13을 찾아야 해!","영어 원문 및 ahelder.ssl 실제 Reply/음성 ID 대조, 정상/강조 분기별 장로 화법으로 미번역 복원"
+174,elder_reply,"Chosen One, things are not well here. We need the GECK if our village is to
+ survive. Our people grow weak with hunger and our food reserves will not last much
+ longer. Please, find the holy Thirteen and return to us. Go now.","Chosen One, things are not well here. We need the GECK if our village is to
+ survive. Our people grow weak with hunger and our food reserves will not last much
+ longer. Please, find the holy Thirteen and return to us. Go now.","선택받은 자여, 마을 사정이 좋지 않네. 마을이 살아남으려면 반드시 GECK이
+ 필요하네. 사람들은 굶주림에 기력을 잃어가고 있고 식량도 곧 바닥날 거야. 부디
+ 성스러운 볼트 13을 찾아 돌아와 주게. 지금 바로 떠나게.","영어 원문 및 ahelder.ssl 실제 Reply/음성 ID 대조, 정상/강조 분기별 장로 화법으로 미번역 복원"
+179,elder_reply,"Child, our need is greater than ever before. Our people sicken, the brahmin
+ are dying, and our food is all but gone. The blight of the land can only be cured with
+ the GECK. Go, find the GECK and save our people.","Child, our need is greater than ever before. Our people sicken, the brahmin
+ are dying, and our food is all but gone. The blight of the land can only be cured with
+ the GECK. Go, find the GECK and save our people.","얘야, 이제 그 어느 때보다 도움이 절실하구나. 부족 사람들은 병들고, 브라민은
+ 죽어가며, 식량도 거의 남지 않았네. 이 땅에 퍼진 재앙은 GECK으로만 치유할 수 있어.
+ 가서 GECK을 찾아 우리 사람들을 구해 주게.","영어 원문 및 ahelder.ssl 실제 Reply/음성 ID 대조, 정상/강조 분기별 장로 화법으로 미번역 복원"
+214,elder_reply,"Then they brought us here, to hell. They have killed most of us with something they call effeevee. They will kill us all before they are through!
+ Do you know what must be done, Chosen One?","Then they brought us here, to hell. They have killed most of us with something they call effeevee. They will kill us all before they are through!
+ Do you know what must be done, Chosen One?","놈들이 우리를 여기로, 이 지옥으로 끌고 왔지. '에프이브이'라는 것으로 우리 대부분을 죽였어. 이런 식이라면 결국 모두 죽을 게야! 선택받은
+ 자여, 무엇을 해야 할지 알겠느냐?","영어 원문 및 ahelder.ssl 실제 Reply/음성 ID 대조, 정상/강조 분기별 장로 화법으로 미번역 복원"

@@ -1,15 +1,15 @@
 {100}{}{당신은 마을의 장로를 본다.}
 {101}{}{장로다.}
 {102}{}{장로는 말 그대로 나이가 아주 많습니다. 당신이 기억하는 그 누구보다도 말이죠. 하지만 그녀는 이 고난의 시기에 마을을 이끌 힘과 열정을 여전히 가지고 있습니다.}
-{103}{aeld1}{Congratulations, Chosen One, you have survived the Temple of Trials. Are
- you ready for your quest?}
+{103}{aeld1}{축하하네, 선택받은 자여. 시련의 사원에서 살아남았구나. 이제 사명을
+ 떠맡을 준비가 되었나?}
 {104}{}{대체 이게 무슨 짓- 시련의 사원에서 내가 죽길 바란 겁니까?}
 {105}{}{물론입니다.}
 {106}{}{좀 더 생각을 해봐야겠어요.}
-{107}{aeld2a}{I am proud of you, Chosen. You have overcome much. Now. You must go find Vault
- 13. Vault 13. Bring the GECK home. GECK. Here is a shiny bottle. Vic gave us this. Vic.
- He is a trader in Klamath. Klamath. Go to Vic. Find Vault 13. Find GECK. Come home. Do
- your best, child.}
+{107}{aeld2a}{네가 자랑스럽구나, 선택받은 자여. 많은 시련을 이겨 냈지. 이제 볼트 13을 찾아야 한다. 볼트
+ 13. GECK을 마을로 가져오너라. GECK. 여기 반짝이는 병이 하나 있네. 빅이 우리에게 준 거지. 빅.
+ 그는 클라마스의 상인이야. 클라마스. 빅을 찾아가라. 볼트 13을 찾아. GECK을 찾아. 마을로 돌아오너라.
+ 최선을 다하렴, 얘야.}
 {112}{aeld2b}{자네는 볼트를 찾지 못했네. 볼트를 찾게! 볼트 13을.}
 {113}{}{어.}
 {114}{aeld3}{선택받은 자여, 우리가 모두 죽기를 바라나? 자네는 반드시 볼트를 찾아야 하네!}
@@ -22,77 +22,77 @@
 {121}{}{난 내 자신을 죽음으로 몰아가지 않을 겁니다!}
 {122}{}{내가 해야하는 일이 뭔지 다시 말씀해주시겠어요?}
 {123}{}{지금 갑니다.}
-{124}{aeld5}{That is good news, but not enough to save us. You must come back soon with the
- GECK or our people will die!}
+{124}{aeld5}{반가운 소식이지만, 그것만으로는 우릴 구할 수 없네. 어서 GECK을 가지고 돌아오지 않으면
+ 부족 사람들이 모두 죽을 거야!}
 {125}{}{정보가 조금 더 필요해요.}
 {126}{}{좋아요, 지금 가겠어요.}
-{127}{aeld6}{You survived. The Chosen One cannot be weak or we are all doomed. Are you
- prepared for your quest?}
+{127}{aeld6}{살아남았구나. 선택받은 자가 나약하다면 우린 모두 끝장이야. 이제 사명을
+ 수행할 준비가 되었느냐?}
 {128}{}{난 시험에 통과했다고요. 물론 준비 되어있죠.}
 {129}{}{생각을 조금 해봐야겠어요.}
 {130}{}{난 내 자신을 죽음으로 몰아가지 않을 겁니다!}
-{131}{aeld7}{Pay attention. Find the holy Vault 13 and bring back the GECK. Vic, the trader
- from Klamath, brought us the flask from the holy Thirteen. Start your search with him.
- The disk will remind you of your task. May the gods of the Vault watch over you.}
+{131}{aeld7}{잘 듣게. 성스러운 볼트 13을 찾아 GECK을 가져와야 하네. 클라마스의 상인
+ 빅이 성스러운 볼트 13에서 나온 그 병을 우리에게 가져다주었지. 우선 그자를 찾아가게.
+ 이 디스크가 자네의 사명을 일깨워 줄 거야. 볼트의 신들이 자네를 지켜 주시기를.}
 {133}{}{내가 출발하기 전에, 질문 드릴 것이 몇 가지 있어요.}
 {134}{}{안녕히 계세요. 부족을 실망시키지 않을겁니다.}
-{135}{aeld8}{아주 좋네. 내게 자네가 결심한 것을 보여주게 - 하지만 너무 오래 걸리지는 말게.}
+{135}{aeld8}{좋네. 결심이 서면 다시 찾아오게. 하지만 너무 오래 기다리지는 말게나.}
 {136}{}{안녕히.}
-{137}{aeld9}{나는 많은 도움을 줄 수는 없네. 오래 전에 많은 것들을 잊어버렸기 때문이지. 어떤 지식이 필요한가?}
+{137}{aeld9}{내가 도울 수 있는 건 많지 않네. 아주 먼 옛날의 지식이 많이 사라졌으니까. 무슨 지혜를 찾고 있나?}
 {138}{aeld9b}{무엇을 원하나?}
 {139}{}{GECK에 대해서 말씀해 주세요.}
 {140}{}{클라마스는 어떻게 가야하죠?}
 {141}{}{볼트 13은 어디에 있죠?}
 {142}{}{다시 생각해 보니, 지금은 어떤 도움도 필요하지 않아요. 안녕히.}
-{143}{aeld10}{It is a holy artifact - the Garden of Eden Creation Kit. The disks promise it
- will make our lands green and our village prosperous. It will save us. More, I do not know.}
+{143}{aeld10}{GECK은 성스러운 유물, 곧 에덴 동산 창조 키트라네. 디스크에 따르면 우리
+ 땅을 푸르게 만들고 마을을 풍요롭게 할 수 있지. 우릴 구해 줄 거야. 그 이상은 나도 모르네.}
 {144}{}{알고 싶은 게 더 있어요.}
 {145}{}{안녕히 계세요.}
 {146}{aeld11}{클라마스는 동쪽에 있네.}
 {147}{}{거기에 내가 배워야 할 다른 것들이 있겠죠.}
 {148}{}{난 준비됐어요. 안녕히.}
-{149}{aeld12}{The holy Thirteen? I cannot help you. Only the Vault Dweller knew. His tales have
- the sound of a perilous journey. }
-{150}{}{이해했어요. 내가 원했던 것보다도 더 많은 것을 알았어요.}
+{149}{aeld12}{성스러운 볼트 13 말인가? 나도 도와줄 수 없네. 오직 볼트 거주자만 그곳을 알고 있었지. 그가 들려준
+ 이야기를 보면 위험한 여정이 될 게야.}
+{150}{}{알겠습니다. 아직 알아야 할 게 많군요.}
 {151}{}{안녕히 계세요, 장로님.}
-{152}{aeld13}{Being a coward will kill us all! Including you. You passed
- the Temple Trials. We have faith in you. We need you.}
+{152}{aeld13}{겁쟁이처럼 굴다간 자네까지 우리 모두 죽게 될 걸세! 자네는 시련의
+ 사원을 통과했네. 우리는 자네를 믿어. 자네가 필요하다고.}
 {153}{}{너무 빨리는 안 돼요, 노인네. 이 일에 대해 생각할 시간이 필요하다고요!}
 {154}{}{당신이 바라시는 대로, 장로시여.}
 {155}{aeld14a}{자네는 우리를 배신했네. 자네는 비명횡사하게 될 게야.}
 {156}{aeld14b}{자네는 반역자야!}
 {157}{aeld14c}{왜 이런 짓을 하는건가?}
 {158}{aeld14d}{자네가 어둠의 영혼을 가진것을 알겠네!}
-{159}{aeld15}{Then take this flask. It is from the holy Vault 13. Vic, a trader in Klamath,
- brought it to us. He may know where the vault is. You may also need some of what they
- call money. Here.}
+{159}{aeld15}{그렇다면 이 병을 받게. 성스러운 볼트 13에서 나온 물건이야. 클라마스의 상인 빅이
+ 가져왔지. 그가 볼트의 위치를 알지도 모르네. 또 밖에서는 '돈'이라고 부르는 것도 필요할
+ 테지. 여기 있네.}
 {160}{}{어? 내 임무가 뭐라고 하셨죠?}
 {161}{}{더 말해 주실 것은 없나요?}
 {162}{}{행운을 빌어주세요, 장로님. 나는 당신의 기대를 저버리지 않겠습니다.}
 {163}{aeld16}{클라마스에 있는 빅을 찾도록 하게. 우리는 자네를 믿고 있다네.}
-{164}{aeld17}{It's good to see you again, Child. I don't mean to be abrupt but I see you
- haven't completed your quest to find the holy Thirteen. Please, let's not waste time
- talking. The need of our people is great. Go find the Vault!}
+{164}{aeld17}{다시 보니 반갑구나, 얘야. 다짜고짜 이런 말을 해서 미안하지만, 자네는
+ 아직 성스러운 볼트 13을 찾는 사명을 마치지 못했군. 얘기로 시간을 허비하지
+ 말자꾸나. 우리 부족이 위태롭네. 어서 볼트를 찾게!}
 {165}{}{나 간다 지금.}
 {166}{}{알았어요, 지금 갑니다.}
 {167}{}{실망시키지 않겠습니다.}
 {168}{}{하고 있다구요, 알겠어요?}
-{169}{aeld18}{Once again you return without the GECK. Our crops begin to fail us, Chosen. Our
- need becomes greater with the passage of time. Go find the holy Thirteen!}
+{169}{aeld18}{이번에도 GECK 없이 돌아왔구나. 선택받은 자여, 농작물이 시들기 시작했네. 시간이
+ 갈수록 우리 처지는 더 절박해지고 있어. 어서 성스러운 볼트 13을 찾아야 해!}
 {170}{}{알았다, 나 간다 지금.}
 {171}{}{네, 장로님.}
 {172}{}{우리 사람들의 기대를 저버리지 않겠습니다, 장로님.}
 {173}{}{이봐요, 당신이 더 잘 할 수 있을거라고 생각 하시면... }
-{174}{aeld19}{Chosen One, things are not well here. We need the GECK if our village is to
- survive. Our people grow weak with hunger and our food reserves will not last much
- longer. Please, find the holy Thirteen and return to us. Go now.}
+{174}{aeld19}{선택받은 자여, 마을 사정이 좋지 않네. 마을이 살아남으려면 반드시 GECK이
+ 필요하네. 사람들은 굶주림에 기력을 잃어가고 있고 식량도 곧 바닥날 거야. 부디
+ 성스러운 볼트 13을 찾아 돌아와 주게. 지금 바로 떠나게.}
 {175}{}{나 간다.}
 {176}{}{잘 알았어요. 지금 갑니다.}
 {177}{}{GECK을 찾아서 마을을 구하는데 최선을 다하겠어요.}
 {178}{}{재촉하지 마요, 노인네. 최선을 다하고 있어요.}
-{179}{aeld20}{Child, our need is greater than ever before. Our people sicken, the brahmin
- are dying, and our food is all but gone. The blight of the land can only be cured with
- the GECK. Go, find the GECK and save our people.}
+{179}{aeld20}{얘야, 이제 그 어느 때보다 도움이 절실하구나. 부족 사람들은 병들고, 브라민은
+ 죽어가며, 식량도 거의 남지 않았네. 이 땅에 퍼진 재앙은 GECK으로만 치유할 수 있어.
+ 가서 GECK을 찾아 우리 사람들을 구해 주게.}
 {180}{}{나 이해했다.}
 {181}{}{지금 가도록 할게요.}
 {182}{}{용서하세요 장로님. 지체없이 GECK을 찾겠습니다.}
@@ -113,8 +113,8 @@
 {211}{}{배를 한 척 가지고 있어요. }
 {212}{eeld5}{날아다니는 기계를 타고 온 사람들이 마을에 와서 우리들을 기계에 태웠네. 다른 이들도 있었는데 - 성스러운 13에서 온 자들이었지 뭔가! 난 우리가 구원 받은 줄 알았네. 우리가 천국으로 가게 될 줄 알았지. (한숨)}
 {213}{}{그리고는요?}
-{214}{eeld5a}{Then they brought us here, to hell. They have killed most of us with something they call effeevee. They will kill us all before they are through!
- Do you know what must be done, Chosen One?}
+{214}{eeld5a}{놈들이 우리를 여기로, 이 지옥으로 끌고 왔지. '에프이브이'라는 것으로 우리 대부분을 죽였어. 이런 식이라면 결국 모두 죽을 게야! 선택받은
+ 자여, 무엇을 해야 할지 알겠느냐?}
 {215}{}{에프이브이?}
 {216}{}{네.}
 {217}{}{아뇨.}
