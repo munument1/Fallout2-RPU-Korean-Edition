@@ -2686,8 +2686,8 @@
     {
       "path": "data/text/korean/dialog/dcrebecc.msg",
       "zip_path": "data/text/korean/dialog/dcrebecc.msg",
-      "sha256": "a6a4b82a2b5d143e68cda553c29d833b0c40d537f7f602df4c87abfb16b58239",
-      "bytes": 9142
+      "sha256": "a8f1af62287c46c9a151f1c6b9f43e39f1ca1b6c98c2eaa3cdefaf8896289272",
+      "bytes": 9343
     },
     {
       "path": "data/text/korean/dialog/dcrebgrd.msg",
@@ -3388,8 +3388,8 @@
     {
       "path": "data/text/korean/dialog/ectrappr.msg",
       "zip_path": "data/text/korean/dialog/ectrappr.msg",
-      "sha256": "885a2e3851b4f59783706b6920feda55790d042468b6bf9f61c529b9ed3ac52d",
-      "bytes": 2222
+      "sha256": "428821876e9a7007c5f2ec76311099d74cfa67e6b9cb6d4965ad9e5a4598f84b",
+      "bytes": 2220
     },
     {
       "path": "data/text/korean/dialog/ectravlr.msg",
@@ -3562,8 +3562,8 @@
     {
       "path": "data/text/korean/dialog/epac6.msg",
       "zip_path": "data/text/korean/dialog/epac6.msg",
-      "sha256": "7897a49b2feda431d1c067b1d3b1bf40d8919eb71f08b09f2f656321dfd53c69",
-      "bytes": 4978
+      "sha256": "7e22da6cd82c18e53fca4538e8a40f07a57066f993d5e1fdf6bc53bc59c0dd62",
+      "bytes": 4974
     },
     {
       "path": "data/text/korean/dialog/epac7.msg",
@@ -7514,6 +7514,12 @@
       "bytes": 171
     },
     {
+      "path": "data/text/korean/dialog/zclvillrat.msg",
+      "zip_path": "data/text/korean/dialog/zclvillrat.msg",
+      "sha256": "ce4c394042d39b88b7dbad0d2c1ce2878d3502f316e78dce2831fff8439e324b",
+      "bytes": 171
+    },
+    {
       "path": "data/text/korean/dialog/viltodd.msg",
       "zip_path": "data/text/korean/dialog/viltodd.msg",
       "sha256": "73deed7c75f2e78dec2186d7b420ed6af10ec53bf5cac4f483c6acaec80f595f",
@@ -7834,8 +7840,8 @@
     {
       "path": "data/text/korean/game/combat.msg",
       "zip_path": "data/text/korean/game/combat.msg",
-      "sha256": "eae6efd3c885105e1aadceeaacba836c4a3c6958f08da714609d97de616973bc",
-      "bytes": 34805
+      "sha256": "71161094d7a9eab638f24901d6fd9cd8177d82dd720ce39f4b9777cf39fdd6ef",
+      "bytes": 35417
     },
     {
       "path": "data/text/korean/game/combatai.msg",
@@ -7858,8 +7864,8 @@
     {
       "path": "data/text/korean/game/editor.msg",
       "zip_path": "data/text/korean/game/editor.msg",
-      "sha256": "a89b710808d38b9030cc86a6f399fea2b5dfe822497a27c9e4a9542bf5894f05",
-      "bytes": 13912
+      "sha256": "2a22a9f75dfdeec14b158dd2c1b21ee5b530283d47dd9326bf13bec260e523b5",
+      "bytes": 13918
     },
     {
       "path": "data/text/korean/game/intrface.msg",
